@@ -46,26 +46,60 @@ def main():
     html = resp["Body"].get_raw_stream().read().decode("utf-8")
     print(f"[INFO] Downloaded {len(html):,} bytes")
 
-    # 4. 替换 __APEC_DATA__ 块
+    # 4. 替换 __APEC_DATA__ 块（用括号匹配，精确找到结束位置）
     fresh_json = json.dumps(fresh_data, ensure_ascii=False)
     new_block = f"window.__APEC_DATA__ = {fresh_json};"
 
-    # 匹配 __APEC_DATA__ 赋值块（跨行 JSON，非贪婪到第一个独立 };
-    pattern = r"window\.__APEC_DATA__\s*=\s*\{[\s\S]*?\n\};"
-    old_match = re.search(pattern, html)
-    if not old_match:
-        # 备选：更宽泛的模式
-        pattern = r"window\.__APEC_DATA__\s*=\s*\{[\s\S]*?\};"
-        old_match = re.search(pattern, html)
-
-    if old_match:
-        html = html[:old_match.start()] + new_block + html[old_match.end():]
-        print(f"[INFO] Replaced __APEC_DATA__ block "
-              f"(old: {len(old_match.group()):,} chars, new: {len(new_block):,} chars)")
-    else:
-        print("[ERROR] Could not find __APEC_DATA__ block in HTML!")
-        print("First 200 chars of HTML:", html[:200])
+    start_marker = "window.__APEC_DATA__ = "
+    pos = html.find(start_marker)
+    if pos == -1:
+        print("[ERROR] Could not find __APEC_DATA__ marker in HTML!")
         sys.exit(1)
+
+    # 找到 JSON 起始的 {
+    brace_start = html.find("{", pos)
+    if brace_start == -1:
+        print("[ERROR] Could not find opening brace after __APEC_DATA__")
+        sys.exit(1)
+
+    # 括号深度匹配，找到匹配的 }
+    depth = 0
+    in_string = False
+    escape_next = False
+    brace_end = -1
+    for i in range(brace_start, len(html)):
+        c = html[i]
+        if escape_next:
+            escape_next = False
+            continue
+        if c == '\\':
+            escape_next = True
+            continue
+        if c == '"':
+            in_string = not in_string
+            continue
+        if in_string:
+            continue
+        if c == '{':
+            depth += 1
+        elif c == '}':
+            depth -= 1
+            if depth == 0:
+                brace_end = i
+                break
+
+    if brace_end == -1:
+        print("[ERROR] Could not find matching closing brace!")
+        sys.exit(1)
+
+    # 确认后面是 ;
+    if html[brace_end + 1:brace_end + 2] == ';':
+        brace_end += 1
+
+    old_block = html[pos:brace_end + 1]
+    html = html[:pos] + new_block + html[brace_end + 1:]
+    print(f"[INFO] Replaced __APEC_DATA__ block "
+          f"(old: {len(old_block):,} chars, new: {len(new_block):,} chars)")
 
     # 5. 上传更新后的 index.html
     print(f"[INFO] Uploading {INDEX_KEY} ({len(html):,} bytes)...")

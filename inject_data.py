@@ -50,12 +50,12 @@ def main():
     fresh_json = json.dumps(fresh_data, ensure_ascii=False)
     new_block = f"window.__APEC_DATA__ = {fresh_json};"
 
-    # 使用正则匹配现有 __APEC_DATA__ 块（贪婪匹配到第一个 };
-    pattern = r"window\.__APEC_DATA__\s*=\s*\{.*?\};"
+    # 匹配 __APEC_DATA__ 赋值块（跨行 JSON，非贪婪到第一个独立 };
+    pattern = r"window\.__APEC_DATA__\s*=\s*\{[\s\S]*?\n\};"
     old_match = re.search(pattern, html)
     if not old_match:
-        # 尝试非贪婪匹配大块 JSON
-        pattern = r"window\.__APEC_DATA__\s*=\s*\{[\s\S]*?\n\};"
+        # 备选：更宽泛的模式
+        pattern = r"window\.__APEC_DATA__\s*=\s*\{[\s\S]*?\};"
         old_match = re.search(pattern, html)
 
     if old_match:

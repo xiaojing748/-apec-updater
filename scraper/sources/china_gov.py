@@ -1,4 +1,4 @@
-"""国内权威信源采集 - 外交部、新华社、国务院、人民网
+"""国内权威信源采集 - 外交部、新华社、国务院、人民网、网信办、工信部、商务部、央广网、光明网、CGTN等
 直接搜索和采集国内政府/官方媒体，不依赖 Google News 中转。
 """
 
@@ -13,6 +13,36 @@ from bs4 import BeautifulSoup
 from scraper import config
 
 SOURCES = [
+    # ====== 官方政府 ======
+    {
+        "name": "外交部",
+        "type": "官方公报",
+        "url": "https://so.mfa.gov.cn/search/site",
+        "params": {"q": "", "page": 0},
+        "fmt": "html",
+    },
+    {
+        "name": "国务院",
+        "type": "官方公报",
+        "url": "http://sousuo.gov.cn/s.htm",
+        "params": {"q": "", "t": "paper", "n": 20, "p": 0},
+        "fmt": "html",
+    },
+    {
+        "name": "网信办",
+        "type": "官方公报",
+        "url": "https://www.cac.gov.cn/was5/web/search",
+        "params": {"searchword": "", "channelid": "233694", "page": 1},
+        "fmt": "html",
+    },
+    {
+        "name": "工信部",
+        "type": "官方公报",
+        "url": "https://www.miit.gov.cn/api-gateway/jpaas-publish-server/front/page/search",
+        "params": {"search": "", "pageNum": 1, "pageSize": 10},
+        "fmt": "json",
+    },
+    # ====== 权威媒体 ======
     {
         "name": "新华社",
         "type": "权威媒体",
@@ -28,18 +58,33 @@ SOURCES = [
         "fmt": "html",
     },
     {
-        "name": "国务院",
-        "type": "官方公告",
-        "url": "http://sousuo.gov.cn/s.htm",
-        "params": {"q": "", "t": "paper", "n": 20, "p": 0},
+        "name": "央广网",
+        "type": "权威媒体",
+        "url": "https://search.cnr.cn/search",
+        "params": {"keyword": "", "page": 1},
         "fmt": "html",
     },
     {
-        "name": "外交部",
-        "type": "官方公告",
-        "url": "https://so.mfa.gov.cn/search/site",
-        "params": {"q": "", "page": 0},
+        "name": "光明网",
+        "type": "权威媒体",
+        "url": "https://search.gmw.cn/search/",
+        "params": {"q": "", "page": 1},
         "fmt": "html",
+    },
+    {
+        "name": "中国经济网",
+        "type": "权威媒体",
+        "url": "http://www.ce.cn/search/search.shtml",
+        "params": {"keywords": "", "pageNo": 1},
+        "fmt": "html",
+    },
+    # ====== 国际传播 ======
+    {
+        "name": "CGTN",
+        "type": "权威媒体",
+        "url": "https://news.cgtn.com/api/search",
+        "params": {"keyword": "", "pageNum": 1, "pageSize": 10},
+        "fmt": "json",
     },
 ]
 
@@ -48,15 +93,22 @@ SEARCH_KEYWORDS = [
     "APEC 数据跨境",
     "APEC 隐私保护",
     "APEC 数字经济",
+    "APEC 数字贸易",
     "APEC 贸易部长",
     "APEC 互联互通",
     "APEC 供应链",
     "APEC 中国年",
     "APEC 人工智能",
+    "APEC AI 治理",
     "APEC 亚太经合",
+    "APEC 高官会",
+    "APEC 电信",
+    "APEC 跨境数据",
+    "APEC CBPR",
+    "APEC 领导人会议",
 ]
 
-CUTOFF_DAYS = 90
+CUTOFF_DAYS = 14  # 只采集近2周的新闻，避免重复
 
 
 def fetch_all():

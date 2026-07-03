@@ -17,7 +17,7 @@ BUCKET = os.environ.get("COS_BUCKET", "apec-tracker-hajimi-2026-1449615649")
 SECRET_ID = os.environ["COS_SECRET_ID"]
 SECRET_KEY = os.environ["COS_SECRET_KEY"]
 
-DATA_FILE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+DATA_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)),
                          "data", "articles.json")
 INDEX_KEY = "index.html"
 DATA_KEY = "data/articles.json"

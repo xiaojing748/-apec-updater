@@ -2,5 +2,4 @@ __pycache__/
 *.pyc
 .env
 deploy_cos.py
-data/articles.json
-data/url_snapshot.json
+

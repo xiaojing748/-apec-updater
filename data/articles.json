@@ -1,0 +1,2016 @@
+{
+  "last_updated": "2026-07-03 07:30:00",
+  "timezone": "Asia/Shanghai",
+  "total_articles": 64,
+  "today_count": 0,
+  "year_count": 101,
+  "monthly_count": 1,
+  "data_range": {
+    "earliest": "2025-11-17",
+    "latest": "2026-07-16"
+  },
+  "articles": [
+    {
+      "id": "q2-034",
+      "title": "APEC Digital Week, including Digital and AI Ministerial Meeting (DMM) and other high-level events,",
+      "url": "https://www.pecc.org/event-calendar/upcoming-events/event/813-apec-digital-week-including-digital-and-ai-ministerial-meeting-dmm-and-other-high-level-events",
+      "date": "2026-07-16",
+      "source": "PECC",
+      "source_type": "学术论文",
+      "summary": "",
+      "categories": [
+        "AI安全治理",
+        "2026中国年"
+      ],
+      "doc_type": [
+        "会议资料"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "AI治理"
+      ],
+      "relevance": 70,
+      "notes": "Q2来源汇编[34]；原print页面无法访问，已替换为PECC官方事件页，并补充工信部公告信息",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "chinese_title": "亚太经合组织数字周，包括数字和人工智能部长级会议（ DMM ）和其他高级别活动，",
+      "abstract": "PECC官方活动日历显示，APEC Digital Week将于2026年7月中下旬在中国成都举行，核心活动包括数字与人工智能部长级会议（DMM）及其他高级别配套活动。另据工信部公告，DMM主体会议定于7月23日至24日举行，境外媒体注册已开启。该活动是APEC 2026中国年数字经济与AI安全治理议程的重要节点，将为亚太地区数字合作与AI政策协调提供平台。"
+    },
+    {
+      "title": "APEC China CEO Forum highlights digital trade, AI and Asia-Pacific connectivity",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXZfT0g4U2xUdUNjQU84amw1UUIwaEhIRkcxRUFzeHVxTmZybWxxY2pyR3FtZW9zMU53RjNuNEVkVVh6b0s3LXNaQU1BOERBZjJKTFVZakg2TF85ajNidm45ZW1keGNTRDdTU1NERGM5UkZCekttWkFHdEFnMjBwSzBDS0cxT3I0MjVuVUZSSjlMckVObWE5TzhyTklyZmRMQXdobG9pdkNvLWs4Z2lUanVrLV9oZ0dycVV1cnhLN1hTV2Js?oc=5",
+      "source": "news.cgtn.com",
+      "source_type": "权威媒体",
+      "date": "2026-06-22",
+      "summary": "APEC China CEO Forum highlights digital trade, AI and Asia-Pacific connectivity &nbsp;&nbsp; news.cgtn.com",
+      "categories": [
+        "数字贸易规则",
+        "AI安全治理",
+        "电信与网络治理"
+      ],
+      "doc_type": [
+        "新闻动态"
+      ],
+      "apec_bodies": [
+        "CTI"
+      ],
+      "geo_focus": [
+        "china"
+      ],
+      "policy_tags": [],
+      "relevance": 60,
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 4,
+      "_event": "CEO Forum 2026",
+      "chinese_title": "APEC中国CEO论坛聚焦数字贸易、人工智能与亚太互联互通",
+      "abstract": "2026年APEC中国CEO论坛聚焦数字贸易、人工智能与亚太互联互通，讨论AI合作、数字贸易规则与区域经济一体化，体现APEC工商界对数字经济与AI治理议题的关注，可作为分析APEC工商咨询与数字经济合作的一手资料。"
+    },
+    {
+      "title": "网络数据安全风险评估办法",
+      "url": "https://www.cac.gov.cn/2026-06/18/c_1783525609815499.htm",
+      "source": "网信办",
+      "source_type": "官方公报",
+      "date": "2026-06-18",
+      "summary": "",
+      "categories": [
+        "数据跨境与隐私保护"
+      ],
+      "relevance": 59,
+      "doc_type": [
+        "研究报告"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 4,
+      "chinese_title": "",
+      "abstract": "国家互联网信息办公室发布《网络数据安全风险评估办法》，规范网络数据处理活动的安全风险评估。该文件与APEC数据跨境流动、网络安全合作议题相关，反映国内数据安全治理规则进展，可作为研究中国数据安全制度与APEC数据治理互动的背景资料。"
+    },
+    {
+      "title": "Taiwan backs supply chain resilience, WTO reform and AI governance at APEC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rN2VfMzdVOGxLUmdTck10cERyS04xQXlhZmdreC1zSlFibm10MVRZNUtCbjhVU1czUU9yUEhTZ1M5bnZfZDJPOElTOUtkYURtV2dpY185U0kxSVp6TnNpTS1ScVVMSEhHMExoWlFOWUgyVmhmZmZfT0Nn?oc=5",
+      "source": "Taipei Times",
+      "source_type": "权威媒体",
+      "date": "2026-05-25",
+      "summary": "Taiwan backs supply chain resilience, WTO reform and AI governance at APEC &nbsp;&nbsp; Taipei Times",
+      "categories": [
+        "AI安全治理",
+        "地缘安全博弈"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [
+        "AI_Governance"
+      ],
+      "relevance": 61,
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 4,
+      "chinese_title": "台湾支持供应链韧性、WTO改革与APEC人工智能治理",
+      "abstract": "台方代表在APEC会议期间表达支持供应链韧性、WTO改革与AI治理的立场，反映APEC成员在AI安全治理与多边贸易体制议题上的不同视角，具有区域合作与地缘安全博弈的研究价值。"
+    },
+    {
+      "title": "APEC Ministers Agree on Digital Trade, AI and Supply Chains in China Talks",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUlNrTDl1QklFS2JWclhIN05mN2t6cHhqQ1VhMm56X0hZM0JNR0ItRUljNTRZUDNGMzYtVkc1RUNCTmV4aGRSM1dKbTBzbEN4STRTRkRES0RqbWEtX1FMVG0zVnBTNUxmbHAzQnhhWWpCR0xkb1ZtWml5RlhZS2tIUWtNYWRVRzRhblpsVzNyZDRtM3l4WjhiRmlnTkxVbnZUaU5Mb1BoTEx3MFc1MlNsbGh4Vjlha2xXbktCR1pfdGVnVnNDRjYw?oc=5",
+      "source": "Caixin Global",
+      "source_type": "权威媒体",
+      "date": "2026-05-25",
+      "summary": "APEC Ministers Agree on Digital Trade, AI and Supply Chains in China Talks &nbsp;&nbsp; Caixin Global",
+      "categories": [
+        "AI安全治理",
+        "数字贸易规则",
+        "地缘安全博弈"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "china",
+        "global"
+      ],
+      "policy_tags": [],
+      "relevance": 46,
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 4,
+      "chinese_title": "APEC部长在中国会谈中就数字贸易、人工智能与供应链达成共识",
+      "abstract": "财新英文报道，APEC贸易部长在苏州会议中就数字贸易、AI合作、供应链韧性及服务贸易新路线图达成共识，反映APEC在数字贸易规则与AI治理方面的最新进展，适合作为中国年贸易部长会议成果分析的补充来源。"
+    },
+    {
+      "title": "APEC Trade Ministers Issue Joint Statement",
+      "url": "https://www.apec.org/press/news-releases/2026/0523_MRT_Statement",
+      "source": "APEC官网",
+      "source_type": "APEC官网",
+      "date": "2026-05-23",
+      "summary": "APEC Ministers Responsible for Trade Meeting",
+      "categories": [
+        "数字贸易规则",
+        "地缘安全博弈"
+      ],
+      "relevance": 78,
+      "doc_type": [
+        "政策文件",
+        "会议资料"
+      ],
+      "apec_bodies": [
+        "CTI"
+      ],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 10,
+      "_event": "Trade Ministers Suzhou 2026",
+      "chinese_title": "APEC贸易部长发布联合声明",
+      "abstract": "APEC官网发布贸易部长会议联合声明，概述在苏州会议中达成的共识与承诺，是APEC贸易部长会议成果的核心官方文件，对研究数字贸易、供应链韧性等议题具有权威性。"
+    },
+    {
+      "title": "APEC trade ministers committed to regional economic integration, supply chain resilience",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ18wNGJ0TVRMeEtycEZPN19oRTBveW9iRmRLdnhmWkVQbTdJdVU0V2JiQXNDWUhvREc3S1g4MVVqcjZfcGFzY2d2ZmxxNUFpVWdlYlRENWVZdjBFNHZZR0NXa0lWV2duaEhtQVZ6eURuOVhzaEJEVmdzbzd6NkhiblNNeWJHXy14ZEdkT2s1cGl5YmM1b1VLZUJWcDF4SUZoUmRBS1d4SG9jTHpWQ05EVlFjQ3puc3BtMVHSAb8BQVVfeXFMTjJoUGc5dFBYemR4VURDOHUzbmMwVTVxTVJpUGZhWkNQb0dlQjZqaDlMMU5yU3BOS2NIeEZtUGJOMWlqS2EtQ1h2Xy1jSXRybFdOck5SbUZ5bmloWVFhVE5QOVlzdU1Ed1ZpUEJJTV9YbFFERmdDUzM2UFotZWxfbDZLU1BGRFRrdjRuenJHdmg2X096aTM2UzRkcUZOOW5jTmpWalBheEZSd3Y2T00zQTEzRXRMVXpBaGF2LUNTU1k?oc=5",
+      "source": "NST Online",
+      "source_type": "权威媒体",
+      "date": "2026-05-23",
+      "summary": "APEC trade ministers committed to regional economic integration, supply chain resilience &nbsp;&nbsp; NST Online",
+      "categories": [
+        "数字贸易规则",
+        "地缘安全博弈"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 67,
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 4,
+      "_event": "Trade Ministers Suzhou 2026",
+      "chinese_title": "APEC贸易部长致力于区域经济一体化与供应链韧性",
+      "abstract": "马来西亚媒体报道APEC贸易部长致力于区域经济一体化与供应链韧性，反映发展中国家视角下对APEC合作议题的关注，可用于分析APEC成员在供应链安全与地缘经济议题上的立场差异。"
+    },
+    {
+      "title": "APEC at a Crossroads: Resilience Under Pressure",
+      "url": "https://www.apec.org/press/blogs/2026/apec-at-a-crossroad--resilience-under-pressure",
+      "source": "APEC官网",
+      "source_type": "APEC官网",
+      "date": "2026-05-22",
+      "summary": "Rhea Crisologo Hernando, Eldo Simanjuntak and Carlos Kuriyama",
+      "categories": [
+        "地缘安全博弈"
+      ],
+      "relevance": 48,
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 10,
+      "_event": "Crossroads / Growth Outlook",
+      "chinese_title": "APEC处于十字路口：压力下的韧性",
+      "abstract": "APEC官网博客文章分析APEC在地缘政治紧张与全球经济压力下的韧性，探讨区域经济合作前景，为理解APEC总体态势、评估多边经济合作机制面临的挑战提供背景资料。"
+    },
+    {
+      "title": "APEC China 2026: Second Senior Officials' Meeting critical for APEC Economic Leaders' Meeting in November",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAya1pfRHJJY0psMUl6Z1ZTRUJWMXJoUlZGS2ZES09RS0FEd1N5VHZwcDVmWVVHQVpTbjJRRXo4VnFwU3RYbHctM3BLRFJQcHAyRUNxejJadmtiN2RiRUFzUGdpT3FSb2xUd0JzcjVTN1VDX0c3YjJQeA?oc=5",
+      "source": "news.cgtn.com",
+      "source_type": "权威媒体",
+      "date": "2026-05-20",
+      "summary": "APEC China 2026: Second Senior Officials' Meeting critical for APEC Economic Leaders' Meeting in November &nbsp;&nbsp; news.cgtn.com",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "新闻动态",
+        "会议资料"
+      ],
+      "apec_bodies": [
+        "APEC SOM"
+      ],
+      "geo_focus": [
+        "china"
+      ],
+      "policy_tags": [],
+      "relevance": 46,
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 4,
+      "_event": "SOM2 Shanghai 2026",
+      "chinese_title": "APEC中国2026：第二次高官会对11月领导人会议至关重要",
+      "abstract": "CGTN报道上海第二次高官会对11月领导人会议的重要性，介绍会议议题与筹备进展，属于APEC 2026中国年系列会议动态，可用于跟踪中国年会议机制与议题演进。"
+    },
+    {
+      "title": "Senior Officials Advance Trade, Connectivity, Innovation and Development Agenda",
+      "url": "https://www.apec.org/press/news-releases/2026/0519_SOM2",
+      "source": "APEC官网",
+      "source_type": "APEC官网",
+      "date": "2026-05-19",
+      "summary": "APEC Senior Officials’ Meeting",
+      "categories": [
+        "数字贸易规则",
+        "电信与网络治理"
+      ],
+      "relevance": 80,
+      "doc_type": [
+        "会议资料"
+      ],
+      "apec_bodies": [
+        "APEC SOM",
+        "CTI"
+      ],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 10,
+      "chinese_title": "高官推动贸易、互联互通、创新与发展议程",
+      "abstract": "APEC官网发布第二次高官会成果，高官们在贸易、互联互通、创新与发展议程上取得进展，为部长级会议和领导人会议奠定基础，是研究APEC 2026中国年议程设置的重要来源。"
+    },
+    {
+      "title": "亚太经合组织第二次高官会在上海举行",
+      "url": "https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ytjh_674269/xgxw_674275/202605/t20260519_11913118.shtml",
+      "source": "外交部",
+      "source_type": "官方公报",
+      "date": "2026-05-19",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "relevance": 51,
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [
+        "APEC SOM"
+      ],
+      "geo_focus": [
+        "china"
+      ],
+      "policy_tags": [],
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 10,
+      "chinese_title": "",
+      "abstract": "外交部发布第二次高官会在上海举行的新闻稿，介绍会议基本情况与中方参与，体现APEC中国年会议机制运作，可作为研究中国主办APEC会议机制与对外通报的权威资料。"
+    },
+    {
+      "title": "外交部副部长马朝旭在亚太经合组织第二次高官会开幕式上的讲话",
+      "url": "https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ytjh_674269/xgxw_674275/202605/t20260518_11912572.shtml",
+      "source": "外交部",
+      "source_type": "官方公报",
+      "date": "2026-05-18",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "relevance": 51,
+      "doc_type": [
+        "政策文件"
+      ],
+      "apec_bodies": [
+        "APEC SOM"
+      ],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 10,
+      "chinese_title": "",
+      "abstract": "马朝旭副部长在APEC第二次高官会开幕式上的讲话，阐述中方对APEC合作、开放、创新、互联互通的主张与优先议题，是研究中国APEC政策立场与多边平台外交的重要一手文本。"
+    },
+    {
+      "title": "Delegates call for AI cooperation, trade resilience at APEC SOM2 meeting - China Daily",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUHlNLUtqOXhKbVRUaDZfWlhZa2x0U01QZWZPV0JISmpickpEN1dwSlpJRlNIRU5SZWhKdkpOdkJiNXBPU3BnRDVMdEJKbldVb25WTmhqWURUNlRDNDhaWTZCeGZRemhzV1pHRk41UUc4X2dLaFoxancwRkdjakNqM2ln?oc=5",
+      "source": "Global Edition",
+      "source_type": "权威媒体",
+      "date": "2026-05-17",
+      "summary": "Delegates call for AI cooperation, trade resilience at APEC SOM2 meeting &nbsp;&nbsp; China Daily - Global Edition",
+      "categories": [
+        "AI安全治理",
+        "2026中国年",
+        "地缘安全博弈"
+      ],
+      "doc_type": [
+        "会议资料"
+      ],
+      "apec_bodies": [
+        "APEC SOM"
+      ],
+      "geo_focus": [
+        "china",
+        "global"
+      ],
+      "policy_tags": [],
+      "relevance": 50,
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 4,
+      "_event": "SOM2 Shanghai 2026",
+      "chinese_title": "代表在APEC第二次高官会上呼吁AI合作与贸易韧性——中国日报",
+      "abstract": "中国日报英文报道，与会代表在第二次高官会上呼吁加强AI合作与贸易韧性，反映APEC在AI安全治理与数字贸易领域的合作诉求，可作为国际媒体对中国年会议议题的观察资料。"
+    },
+    {
+      "title": "APMEN: Public-Private Dialogue on Advancing Trade Facilitation & Supply Chain Connectivity through Eport",
+      "url": "https://www.apec.org/press/photos/2026/apmen--public-private-dialogue-on-advancing-trade-facilitation---supply-chain-connectivity-through-eport",
+      "source": "APEC官网",
+      "source_type": "APEC官网",
+      "date": "2026-05-15",
+      "summary": "",
+      "categories": [
+        "数字贸易规则",
+        "电信与网络治理",
+        "地缘安全博弈"
+      ],
+      "relevance": 50,
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [
+        "CTI"
+      ],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 10,
+      "chinese_title": "APMEN：通过电子口岸推进贸易便利化与供应链互联互通的公私对话",
+      "abstract": "APEC官网介绍通过电子口岸促进贸易便利化与供应链互联互通的公私对话，涉及数字贸易规则、供应链韧性与公私合作机制，适合作为研究APEC数字化贸易治理与跨境互联互通的素材。"
+    },
+    {
+      "id": "q2-017",
+      "title": "亚太经合组织电信工作组第72次会议在上海举行,",
+      "url": "https://www.miit.gov.cn/xwfb/bldhd/art/2026/art_22463e9dad584eff979f9ecac9da1a60.html",
+      "date": "2026-05-12",
+      "source": "工信部",
+      "source_type": "官方公报",
+      "summary": "",
+      "categories": [
+        "2026中国年",
+        "电信与网络治理"
+      ],
+      "doc_type": [
+        "政策文件"
+      ],
+      "apec_bodies": [
+        "Telecommunications WG"
+      ],
+      "policy_tags": [],
+      "relevance": 85,
+      "notes": "Q2来源汇编[17]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 8,
+      "abstract": "APEC电信工作组第72次会议在上海举行，工信部副部长熊继军致辞，强调中方将围绕“开放、创新、合作”深化互联互通、数字经济、人工智能等领域合作，推动亚太地区数字和AI合作取得新成效。"
+    },
+    {
+      "id": "q2-018",
+      "title": "亚太经合组织电信工作组第72次会议在上海举行,",
+      "url": "https://stcn.com/article/detail/3905182.html",
+      "date": "2026-05-12",
+      "source": "证券时报",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "2026中国年",
+        "电信与网络治理"
+      ],
+      "doc_type": [
+        "会议资料"
+      ],
+      "apec_bodies": [
+        "Telecommunications WG"
+      ],
+      "policy_tags": [],
+      "relevance": 75,
+      "notes": "Q2来源汇编[18]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "abstract": "证券时报报道，APEC电信工作组第72次会议在上海举行，会议聚焦信息通信技术、数字和人工智能领域的政策交流与技术合作，推动亚太地区电信与网络治理合作。"
+    },
+    {
+      "id": "q2-019",
+      "title": "亚太经合组织电信工作组第72次会议在上海举行,",
+      "url": "https://finance.ifeng.com/c/8t4K68lXMpZ",
+      "date": "2026-05-12",
+      "source": "凤凰财经",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "2026中国年",
+        "电信与网络治理"
+      ],
+      "doc_type": [
+        "会议资料"
+      ],
+      "apec_bodies": [
+        "Telecommunications WG"
+      ],
+      "policy_tags": [],
+      "relevance": 75,
+      "notes": "Q2来源汇编[19]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "abstract": "凤凰财经报道，APEC电信工作组第72次会议在上海举行，工信部副部长熊继军出席并致辞，强调深化互联互通、数字经济、人工智能等领域合作，推动亚太地区数字和AI发展。"
+    },
+    {
+      "id": "q2-039",
+      "title": "全球数据周启幕，浦东东盟数字合作开新局,",
+      "url": "https://www.shanghai.gov.cn/nw15343/20260512/6ef6634ca40e4d7d96d2da389cb9aa37.html",
+      "date": "2026-05-12",
+      "source": "上海市政府",
+      "source_type": "官方公报",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "政策文件"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [],
+      "relevance": 80,
+      "notes": "Q2来源汇编[39]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 8,
+      "abstract": "上海市政府报道，全球数据周在浦东启幕，推动中国与东盟在数字基础设施、数据跨境流动、智慧城市等领域合作，开启区域数字合作新局面。"
+    },
+    {
+      "id": "q2-020",
+      "title": "APEC Strengthens Regional Cooperation in Shanghai Amid Growing Trade Uncertainty,",
+      "url": "https://www.apec.org/press/news-releases/2026/1105_som2",
+      "date": "2026-05-11",
+      "source": "APEC Secretariat",
+      "source_type": "官方公报",
+      "summary": "",
+      "categories": [
+        "地缘安全博弈",
+        "数字贸易规则",
+        "2026中国年"
+      ],
+      "doc_type": [
+        "政策文件"
+      ],
+      "apec_bodies": [
+        "APEC SOM"
+      ],
+      "policy_tags": [
+        "AI治理"
+      ],
+      "relevance": 85,
+      "notes": "Q2来源汇编[20]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 8,
+      "chinese_title": "亚太经合组织在上海加强区域合作，贸易不确定性日益增加，",
+      "abstract": "APEC第二次高官会在上海举行，秘书处表示各经济体在开放、创新、合作框架下就贸易投资、供应链韧性、数字经济、可持续发展等议题深入讨论，并举办了妇女与经济论坛。"
+    },
+    {
+      "id": "q2-037",
+      "title": "以实际行动为区域开放'打好样'（锐财经）,",
+      "url": "https://news.sina.com.cn/zx/gj/2026-05-11/doc-inhxnwmm1991539.shtml",
+      "date": "2026-05-11",
+      "source": "新浪财经",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "新闻动态"
+      ],
+      "apec_bodies": [
+        "CTI"
+      ],
+      "policy_tags": [
+        "APEC2026中国年"
+      ],
+      "relevance": 70,
+      "notes": "Q2来源汇编[37]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "abstract": "文章认为，中国以实际行动为区域开放“打好样”，通过APEC平台推动高水平对外开放、新质生产力发展和普惠包容合作，为亚太共同繁荣注入确定性。"
+    },
+    {
+      "id": "q2-038",
+      "title": "中国商务部：中方主办APEC贸易部长会释放三个信号,",
+      "url": "https://kr.china-embassy.gov.cn/chn/yhjl/202605/t20260511_11908073.htm",
+      "date": "2026-05-11",
+      "source": "中国驻韩国大使馆",
+      "source_type": "官方公报",
+      "summary": "",
+      "categories": [
+        "数字贸易规则",
+        "2026中国年"
+      ],
+      "doc_type": [
+        "政策文件"
+      ],
+      "apec_bodies": [
+        "CTI"
+      ],
+      "policy_tags": [],
+      "relevance": 75,
+      "notes": "Q2来源汇编[38]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "abstract": "中国驻韩国大使馆转载商务部内容，介绍中国希望通过APEC贸易部长会议发出坚持开放合作、支持多边贸易体制、推动区域经济一体化的三个信号。"
+    },
+    {
+      "id": "q2-015",
+      "title": "用好上海'大码头'解决共性问题,",
+      "url": "https://www.jfdaily.com/journal/getMobileArticle.htm?id=508880",
+      "date": "2026-05-10",
+      "source": "解放日报",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "新闻动态"
+      ],
+      "apec_bodies": [
+        "APEC SOM"
+      ],
+      "policy_tags": [
+        "贸易不确定性",
+        "APEC2026中国年"
+      ],
+      "relevance": 70,
+      "notes": "Q2来源汇编[15]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "abstract": "解放日报文章指出，上海作为APEC第二次高官会举办地，将用好“大码头”优势解决共性问题，围绕开放、创新、合作主题，推动区域合作与高质量发展。"
+    },
+    {
+      "id": "q2-016",
+      "title": "用好上海'大码头'解决共性问题 APEC高官会明在沪举行,",
+      "url": "https://www.shanghai.gov.cn/nw4411/20260510/1698bacc835b424db7bc1a5de4e477e2.html",
+      "date": "2026-05-10",
+      "source": "上海市人民政府",
+      "source_type": "官方公报",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "政策文件"
+      ],
+      "apec_bodies": [
+        "APEC SOM"
+      ],
+      "policy_tags": [
+        "贸易不确定性",
+        "APEC2026中国年"
+      ],
+      "relevance": 75,
+      "notes": "Q2来源汇编[16]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "abstract": "上海市政府发布，APEC第二次高官会将于5月11日至12日在上海举行，会议围绕APEC中国年主题和三大优先领域，就贸易投资、数字经济、可持续发展等议题展开讨论。"
+    },
+    {
+      "id": "q2-023",
+      "title": "研究推进跨境电商、人工智能、智慧海关等多项合作倡议！APEC贸易部长会议本月22日—23日举办,",
+      "url": "https://finance.ifeng.com/c/8szjRHvXY9D",
+      "date": "2026-05-09",
+      "source": "商务部（凤凰财经转载）",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "AI安全治理",
+        "数字贸易规则",
+        "2026中国年"
+      ],
+      "doc_type": [
+        "会议资料"
+      ],
+      "apec_bodies": [
+        "CTI"
+      ],
+      "policy_tags": [
+        "AI治理"
+      ],
+      "relevance": 85,
+      "notes": "Q2来源汇编[23]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 8,
+      "abstract": "商务部表示，2026年APEC贸易部长会议将于5月22日至23日在苏州举办，将推进跨境电商、人工智能、智慧海关等多项合作倡议，就数字、绿色等新兴领域合作路径深入讨论。"
+    },
+    {
+      "id": "q2-024",
+      "title": "商务部：APEC贸易部长会议将就数字、绿色等新兴领域合作路径深入讨论,",
+      "url": "https://jg-static.eeo.com.cn/article/info?id=55feaa9de0c449fb8312cfea7a65e7f4",
+      "date": "2026-05-09",
+      "source": "经济观察报",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "数字贸易规则",
+        "2026中国年"
+      ],
+      "doc_type": [
+        "会议资料"
+      ],
+      "apec_bodies": [
+        "CTI"
+      ],
+      "policy_tags": [],
+      "relevance": 65,
+      "notes": "Q2来源汇编[24]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 6,
+      "abstract": "商务部介绍，APEC贸易部长会议将就数字、绿色等新兴领域合作路径深入讨论，并希望通过会议发出坚持开放合作、支持多边贸易体制、推动区域经济一体化的信号。"
+    },
+    {
+      "id": "q2-025",
+      "title": "商务部：中国希望通过本月举行的APEC贸易部长会议发出三个信号,",
+      "url": "https://nw.eastday.com/zq/zh/20260509/e8cda61a803c0c3224e15471e55edc16.html",
+      "date": "2026-05-09",
+      "source": "东方网",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "数字贸易规则",
+        "2026中国年"
+      ],
+      "doc_type": [
+        "会议资料"
+      ],
+      "apec_bodies": [
+        "CTI"
+      ],
+      "policy_tags": [],
+      "relevance": 65,
+      "notes": "Q2来源汇编[25]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 6,
+      "abstract": "商务部李成钢表示，2026年APEC贸易部长会议将于5月22日至23日在苏州举办，中方希望发出三个信号：高水平对外开放、发展新质生产力、普惠包容合作共赢。会议将围绕数字、绿色、创新等新兴领域开展深入讨论。"
+    },
+    {
+      "id": "q2-026",
+      "title": "2026年APEC贸易部长会议即将在苏州举办 中方将与APEC各方加强数字、绿色等新兴领域合作,",
+      "url": "https://finance.cnr.cn/jjgd/20260509/t20260509_527615117.shtml",
+      "date": "2026-05-09",
+      "source": "央广网",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "数字贸易规则",
+        "2026中国年"
+      ],
+      "doc_type": [
+        "会议资料"
+      ],
+      "apec_bodies": [
+        "CTI"
+      ],
+      "policy_tags": [],
+      "relevance": 65,
+      "notes": "Q2来源汇编[26]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 6,
+      "abstract": "央广网报道，2026年APEC贸易部长会议将在苏州举办，中方将与各方加强数字、绿色、人工智能、跨境电商、智慧海关等新兴领域合作，推动亚太区域经济一体化。"
+    },
+    {
+      "id": "q2-027",
+      "title": "26年，从上海到苏州：中国第三次主办APEC贸易部长会议，这次有何不同？",
+      "url": "https://finance.jrj.com.cn/2026/05/09204257056804.shtml",
+      "date": "2026-05-09",
+      "source": "金融界",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "数字贸易规则",
+        "2026中国年"
+      ],
+      "doc_type": [
+        "会议资料"
+      ],
+      "apec_bodies": [
+        "CTI"
+      ],
+      "policy_tags": [],
+      "relevance": 65,
+      "notes": "Q2来源汇编[27]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 6,
+      "abstract": "文章回顾中国三次主办APEC贸易部长会议的历史，分析2026年苏州会议背景，认为在当前国际形势下，APEC贸易部长会议将在推动数字、绿色、创新合作及维护多边贸易体制方面发挥重要作用。"
+    },
+    {
+      "title": "一图读懂《智能体规范应用与创新发展实施意见》",
+      "url": "https://www.cac.gov.cn/2026-05/08/c_1779979790489421.htm",
+      "source": "网信办",
+      "source_type": "官方公报",
+      "date": "2026-05-08",
+      "summary": "",
+      "categories": [
+        "AI安全治理",
+        "数字贸易规则"
+      ],
+      "relevance": 45,
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 4,
+      "chinese_title": "",
+      "abstract": "国家网信办以图解形式解读《智能体规范应用与创新发展实施意见》，涉及AI应用规范、创新发展和安全治理，与APEC AI安全治理议题相关，可作为研究中国AI治理规则与APEC AI倡议互动的背景资料。"
+    },
+    {
+      "id": "q2-014",
+      "title": "APEC'中国年'热度渐升,",
+      "url": "https://baijiahao.baidu.com/s?id=1864503515330445414",
+      "date": "2026-05-07",
+      "source": "人民日报海外版",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "新闻动态"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "APEC2026中国年"
+      ],
+      "relevance": 55,
+      "notes": "Q2来源汇编[14]；原东方财富链接已失效，替换为人民日报海外版（百家号）原文",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 6,
+      "abstract": "《人民日报海外版》2026年5月7日文章邀请对外经济贸易大学屠新泉、南开大学张靖佳评析APEC“中国年”。文章指出系列活动呈现国际参与热情高、会议布局系统紧凑、议题专业多元等特点；在当前地缘冲突与多边机制困境下，APEC仍是亚太经贸合作的“黏合剂”和“稳定器”；中国以“建设亚太共同体，促进共同繁荣”为主题，在开放、创新、合作三大优先领域发挥理念引领、行动示范与合作桥梁作用。"
+    },
+    {
+      "id": "q2-036",
+      "title": "APEC'中国年'热度渐升，当前国际背景下APEC能发挥怎样的作用？",
+      "url": "http://www.cnhubei.com/content/2026-05/07/content_19964172.html",
+      "date": "2026-05-07",
+      "source": "湖北网",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "新闻动态"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "APEC2026中国年"
+      ],
+      "relevance": 55,
+      "notes": "Q2来源汇编[36]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 5,
+      "abstract": "文章转载《人民日报海外版》分析APEC“中国年”热度渐升，讨论在当前国际背景下APEC能发挥的作用，认为APEC可通过促进对话、加强互联互通、推动绿色创新转型维护区域经济稳定。"
+    },
+    {
+      "id": "q2-035",
+      "title": "APEC strengthens regional cooperation amid trade uncertainty,",
+      "url": "https://en.antaranews.com/news/415409/apec-strengthens-regional-cooperation-amid-trade-uncertainty",
+      "date": "2026-05-01",
+      "source": "Antara News",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "地缘安全博弈",
+        "数字贸易规则"
+      ],
+      "doc_type": [
+        "新闻动态"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "AI治理"
+      ],
+      "relevance": 70,
+      "notes": "Q2来源汇编[35]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "chinese_title": "亚太经合组织在贸易不确定性中加强区域合作",
+      "abstract": "文章指出，面对贸易不确定性和地缘紧张，APEC仍是亚太地区重要经济合作平台，各方在上海第二次高官会期间讨论加强区域合作、供应链韧性和数字创新，以维护多边贸易体系。"
+    },
+    {
+      "id": "q2-008",
+      "title": "APEC Business Advisory Council Meeting in Mexico Advances Regional Cooperation,",
+      "url": "http://m.cyol.com/gb/articles/2026-04/30/content_99eRNVhaG4.html",
+      "date": "2026-04-30",
+      "source": "中国青年报",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "地缘安全博弈",
+        "数字贸易规则"
+      ],
+      "doc_type": [
+        "新闻动态"
+      ],
+      "apec_bodies": [
+        "CTI",
+        "ABAC"
+      ],
+      "policy_tags": [
+        "互联互通",
+        "APEC2026中国年"
+      ],
+      "relevance": 70,
+      "notes": "Q2来源汇编[8]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "chinese_title": "APEC工商咨询理事会在墨西哥举行会议推进区域合作，",
+      "abstract": "APEC工商咨询理事会第二次会议在墨西哥城举行，21个经济体200余名商界领袖围绕区域一体化、数字创新、可持续发展和互联互通交流，中方代表呼吁推进亚太自贸区并分享“AI+”经验，会议通过支持亚太自贸区与互联互通声明。"
+    },
+    {
+      "id": "q2-010",
+      "title": "2026年全球贸易投资促进峰会将举行 突出'新''智''融',",
+      "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202604/t20260430_2939919.shtml",
+      "date": "2026-04-30",
+      "source": "中国经济网",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "会议资料"
+      ],
+      "apec_bodies": [
+        "CTI"
+      ],
+      "policy_tags": [],
+      "relevance": 65,
+      "notes": "Q2来源汇编[10]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 6,
+      "abstract": "2026年全球贸易投资促进峰会将于北京举行，突出“新”“智”“融”主题。ABAC墨西哥会议围绕区域经济一体化、可持续发展、数字创新、互联互通深入交流，通过支持亚太自贸区与互联互通声明，中方提出“人工智能+”经验与能源互联互通倡议。"
+    },
+    {
+      "id": "q2-004",
+      "title": "中国公共外交协会举办APEC'中国年'主题'临甲7号'沙龙,",
+      "url": "http://www.chinapda.org.cn/xhdt/202604/t20260429_11902252.htm",
+      "date": "2026-04-29",
+      "source": "中国公共外交协会",
+      "source_type": "官方公报",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "政策文件"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "APEC2026中国年"
+      ],
+      "relevance": 65,
+      "notes": "Q2来源汇编[4]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 6,
+      "abstract": "中国公共外交协会举办APEC“中国年”主题“临甲7号”沙龙，邀请专家学者围绕中国年主题、三大优先领域及数字经济、人工智能、绿色发展等议题研讨，为讲好中国年故事提供智力支持。"
+    },
+    {
+      "id": "q2-007",
+      "title": "APEC工商咨询理事会墨西哥会议推动亚太区域合作与互联互通,",
+      "url": "http://world-app.people.cn/n1/2026/0427/c1002-40709001.html",
+      "date": "2026-04-27",
+      "source": "人民网",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "地缘安全博弈",
+        "数字贸易规则",
+        "电信与网络治理"
+      ],
+      "doc_type": [
+        "会议资料"
+      ],
+      "apec_bodies": [
+        "CTI",
+        "ABAC"
+      ],
+      "policy_tags": [
+        "互联互通"
+      ],
+      "relevance": 55,
+      "notes": "Q2来源汇编[7]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 5,
+      "abstract": "APEC工商咨询理事会第二次会议在墨西哥城举行，21个经济体200余名代表围绕区域经济一体化、可持续发展、数字创新、互联互通交流，发布支持亚太自贸区与互联互通声明。中国工商界代表分享“人工智能+”经验并提出多项倡议。"
+    },
+    {
+      "id": "q2-009",
+      "title": "APEC工商咨询理事会第二次会议在墨西哥举行 中国方案助力亚太协同发展,",
+      "url": "http://finance.cnr.cn/ycbd/20260426/t20260426_527601124.shtml",
+      "date": "2026-04-26",
+      "source": "央广网",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "会议资料"
+      ],
+      "apec_bodies": [
+        "CTI",
+        "ABAC"
+      ],
+      "policy_tags": [],
+      "relevance": 55,
+      "notes": "Q2来源汇编[9]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 5,
+      "abstract": "APEC工商咨询理事会第二次会议在墨西哥举行，与会代表围绕区域经济一体化、互联互通、数字化、可持续发展等议题交流，中方代表提出中国方案，助力亚太协同发展。"
+    },
+    {
+      "id": "q2-012",
+      "title": "智库聚力惠民生！多项研究成果报告亮相亚太峰会,",
+      "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202604/t20260418_2914012.shtml",
+      "date": "2026-04-18",
+      "source": "中国经济网（转载）",
+      "source_type": "学术论文",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "研究报告"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "AI治理",
+        "数据跨境流动"
+      ],
+      "relevance": 65,
+      "notes": "Q2来源汇编[12]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 6,
+      "abstract": "2026年世界互联网大会亚太峰会期间，10家智库发布系列成果，聚焦人工智能开源生态、AI安全与治理、数据要素市场、数据跨境流动机制等议题，探讨AI赋能政务服务与民生价值。"
+    },
+    {
+      "id": "q2-011",
+      "title": "海报｜智库聚力惠民生！多项研究成果报告亮相亚太峰会,",
+      "url": "https://politics.gmw.cn/2026-04/16/content_38711388.htm",
+      "date": "2026-04-16",
+      "source": "光明网",
+      "source_type": "学术论文",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "研究报告"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "AI治理",
+        "数据跨境流动"
+      ],
+      "relevance": 65,
+      "notes": "Q2来源汇编[11]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 6,
+      "abstract": "2026年世界互联网大会亚太峰会期间，10家智库单位发布系列成果，聚焦人工智能开源生态、弥合智能鸿沟、AI安全与治理、数据要素市场、数据跨境流动机制等议题，探讨AI在民生场景的创新应用。"
+    },
+    {
+      "id": "q2-003",
+      "title": "2026年APEC高官会主席陈旭：吁就AI、基础设施建设深化沟通合作,",
+      "url": "https://www.ctee.com.tw/news/20260326700152-439901",
+      "date": "2026-03-26",
+      "source": "工商时报",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "新闻动态"
+      ],
+      "apec_bodies": [
+        "APEC SOM"
+      ],
+      "policy_tags": [
+        "AI治理"
+      ],
+      "relevance": 75,
+      "notes": "Q2来源汇编[3]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "abstract": "2026年APEC高官会主席陈旭表示，将推动各方在人工智能、基础设施建设等领域深化沟通合作，应对数字鸿沟与供应链挑战，为APEC领导人会议储备成果。"
+    },
+    {
+      "id": "q2-006",
+      "title": "（聚焦博鳌）APEC官员谈APEC'中国年'：各方对中国提出的主题高度支持,",
+      "url": "http://big5.china.com.cn/gate/big5/news.china.com.cn/2026-03/25/content_118402047.shtml",
+      "date": "2026-03-25",
+      "source": "中国网",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "新闻动态"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "APEC2026中国年"
+      ],
+      "relevance": 55,
+      "notes": "Q2来源汇编[6]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 5,
+      "abstract": "APEC秘书处执行主任佩德罗萨在博鳌论坛表示，各方对中国提出的“建设亚太共同体，促进共同繁荣”主题及“开放、创新、合作”三大优先领域高度支持，7月将在成都举办APEC数字周，聚焦人工智能等前沿技术合作。"
+    },
+    {
+      "id": "q2-001",
+      "title": "Updates to the Global Cross-Border Privacy Rules System Strengthen Global Interoperability and Privacy,",
+      "url": "https://www.globalcbpr.org/updates-to-the-global-cross-border-privacy-rules-system-strengthen-global-interoperability-and-privacy/",
+      "date": "2026-03-23",
+      "source": "Global CBPR Forum",
+      "source_type": "官方公报",
+      "summary": "",
+      "categories": [
+        "数据跨境与隐私保护"
+      ],
+      "doc_type": [
+        "政策文件"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "CBPR"
+      ],
+      "relevance": 85,
+      "notes": "Q2来源汇编[1]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 8,
+      "chinese_title": "全球跨境隐私规则系统更新加强全球互操作性和隐私，",
+      "abstract": "全球CBPR论坛更新跨境隐私规则（CBPR）系统项目要求，从50项增至57项，新增防止伤害、风险评估、违规通知、儿童数据、敏感数据等要求，2027年4月起实施。CBPR是APEC数据跨境流动与隐私保护互操作机制的核心，与课题直接相关。"
+    },
+    {
+      "title": "Director-General of the International Economic Affairs Department attends the 1st APEC Senior Officials’ Meeting 2026 in Guangzhou, People’s Republic of China",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPemt2eXZKZl8xYlNuT2RjSkJteTNSeU9JSXlldHRZS1ZEVVZlTi0teU54WnNLcWU0VUlQQjlHY1RnY2lwRE9mM1RrRjZQUmIxWWRpSC1xWFRVbTFWUmgtdlBfQzVvM2xmc3VwaEFtd0J0RWxuMXlTeFlRTGN2MDdGaFNvbVk5RnNPOWtFLW9yVXpRUWwtaW96NTk1Z2NhZw?oc=5",
+      "source": "กระทรวงการต่างประเทศ",
+      "source_type": "权威媒体",
+      "date": "2026-02-18",
+      "summary": "Director-General of the International Economic Affairs Department attends the 1st APEC Senior Officials’ Meeting 2026 in Guangzhou, People’s Republic of China &nbsp;&nbsp; กระทรวงการต่างประเทศ",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "会议资料"
+      ],
+      "apec_bodies": [
+        "APEC SOM"
+      ],
+      "geo_focus": [
+        "china",
+        "global"
+      ],
+      "policy_tags": [
+        "DEPA"
+      ],
+      "relevance": 46,
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 4,
+      "_event": "SOM1 Guangzhou 2026",
+      "abstract": "泰国外交部国际经济事务司司长率团出席2026年2月在广州举行的APEC首次高官会（SOM1），参与讨论2026年APEC中国年的优先议题与工作计划。该报道从泰国视角确认了SOM1的议程框架，包括区域经济一体化、数字经济合作、互联互通等核心议题，体现了APEC成员经济体对中国主办年议程的积极参与和认可。",
+      "chinese_title": "泰国外交部国际经济事务司司长出席2026年APEC首次高官会（广州）"
+    },
+    {
+      "id": "q2-030",
+      "title": "US Pushes AI Funding, Fisheries Tech at APEC Amid China Rivalry,",
+      "url": "https://www.usnews.com/news/world/articles/2026-02-12/us-pushes-ai-funding-fisheries-tech-at-apec-amid-china-rivalry",
+      "date": "2026-02-12",
+      "source": "US News",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "AI安全治理"
+      ],
+      "doc_type": [
+        "新闻动态"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "AI治理"
+      ],
+      "relevance": 70,
+      "notes": "Q2来源汇编[30]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "chinese_title": "美国推动人工智能资助、亚太经合组织渔业技术与中国竞争、",
+      "abstract": "路透社报道，特朗普政府在广州APEC会议期间推广美国AI技术出口，并设立2000万美元基金支持伙伴经济体采用美国AI技术，同时推动海洋监控技术以应对非法捕捞。文章反映中美在APEC框架下的技术影响力竞争。"
+    },
+    {
+      "title": "APEC senior officials meet in Guangzhou as China pushes for trade integration",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa21KNUdwNUVJcG5ZNGJxZ0sxYlJqSWItX3JTVU9yTndpSWh1c1g3YlBWUENSY2dUUEhEVnNVSU5YZHRVbUdaY09RSkp4SFowSEpYUFZnaHpWb2twUFFrMTA2dW1zRE43enp1Q3RXX0dHcm5NdVdUOFN3cFVKVDVUZnVSYTBoZVRmd0J2Yg?oc=5",
+      "source": "Macao News",
+      "source_type": "权威媒体",
+      "date": "2026-02-11",
+      "summary": "APEC senior officials meet in Guangzhou as China pushes for trade integration &nbsp;&nbsp; Macao News",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "新闻动态"
+      ],
+      "apec_bodies": [
+        "APEC SOM"
+      ],
+      "geo_focus": [
+        "china"
+      ],
+      "policy_tags": [],
+      "relevance": 46,
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 4,
+      "_event": "SOM1 Guangzhou 2026",
+      "chinese_title": "APEC高官在广州会晤，中国推动贸易一体化",
+      "abstract": "澳门媒体报道APEC高官在广州开会，讨论中国推动贸易一体化，提供国际媒体对APEC中国年早期会议的观察视角，可作为区域媒体对APEC中国年启动阶段报道的参考。"
+    },
+    {
+      "title": "亚太经合组织第一次高官会在广州举行",
+      "url": "https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ytjh_674269/xgxw_674275/202602/t20260210_11855528.shtml",
+      "source": "外交部",
+      "source_type": "官方公报",
+      "date": "2026-02-10",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "relevance": 51,
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [
+        "APEC SOM"
+      ],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 10,
+      "chinese_title": "",
+      "abstract": "外交部发布第一次高官会在广州举行的新闻稿，介绍会议安排与中方角色，是APEC 2026中国年启动阶段的重要权威记录，适合作为中国年会议机制与对外通报研究的资料。"
+    },
+    {
+      "title": "王毅出席2026年亚太经合组织第一次高官会开幕式",
+      "url": "https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ytjh_674269/xgxw_674275/202602/t20260210_11855051.shtml",
+      "source": "外交部",
+      "source_type": "官方公报",
+      "date": "2026-02-10",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "relevance": 51,
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [
+        "APEC SOM"
+      ],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 10,
+      "chinese_title": "",
+      "abstract": "外交部发布王毅出席第一次高官会开幕式的消息，体现中国高层对APEC中国年的重视，可作为研究中国APEC外交与高层参与的一手资料。"
+    },
+    {
+      "title": "王毅在2026年亚太经合组织第一次高官会开幕式上的致辞",
+      "url": "https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ytjh_674269/xgxw_674275/202602/t20260210_11855016.shtml",
+      "source": "外交部",
+      "source_type": "官方公报",
+      "date": "2026-02-10",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "relevance": 51,
+      "doc_type": [
+        "政策文件"
+      ],
+      "apec_bodies": [
+        "APEC SOM"
+      ],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 10,
+      "chinese_title": "",
+      "abstract": "王毅在第一次高官会开幕式上的致辞，系统阐述中方对APEC合作、亚太共同体建设、开放创新合作的立场与主张，是研究中国APEC政策、多边平台外交与亚太治理的核心文本。"
+    },
+    {
+      "title": "Chinese FM introduces key tasks of APEC China 2026, calls to enhance connectivity amid protectionism headwinds",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15N2xpSUhJbDJVX2U3QXBSd3RLc0FYRUV0WW1lOWxHNm4xa0dkVFNSaThhS1piWEgzVnVWV0o4Ukl4QUk2TkFtZjJqTXNLcHdCM2JOWXlLZkVBdk1KbGRqWVd3?oc=5",
+      "source": "Global Times",
+      "source_type": "权威媒体",
+      "date": "2026-02-10",
+      "summary": "Chinese FM introduces key tasks of APEC China 2026, calls to enhance connectivity amid protectionism headwinds &nbsp;&nbsp; Global Times",
+      "categories": [
+        "数字贸易规则",
+        "2026中国年",
+        "电信与网络治理"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [
+        "CTI"
+      ],
+      "geo_focus": [
+        "china",
+        "global"
+      ],
+      "policy_tags": [],
+      "relevance": 54,
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 4,
+      "chinese_title": "中国外长介绍APEC 2026中国年重点任务，呼吁在保护主义逆风下加强互联互通",
+      "abstract": "环球时报英文报道中国外长介绍APEC 2026中国年重点任务，强调在保护主义抬头背景下加强互联互通，反映中国官方媒体对APEC议程的解读，可用于分析中国年主题与对外传播。"
+    },
+    {
+      "title": "王毅将出席2026年亚太经合组织第一次高官会",
+      "url": "https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/gjjjs_674249/gjzzyhygk_674253/ytjh_674269/xgxw_674275/202602/t20260209_11854015.shtml",
+      "source": "外交部",
+      "source_type": "官方公报",
+      "date": "2026-02-09",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "relevance": 51,
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [
+        "APEC SOM"
+      ],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "notes": "",
+      "starred": false,
+      "manual": false,
+      "platform": "APEC",
+      "source_quality": 10,
+      "chinese_title": "",
+      "abstract": "外交部预告王毅将出席第一次高官会，属于APEC 2026中国年会议筹备阶段的权威动态，可用于跟踪中国年高层参与与会务安排。"
+    },
+    {
+      "id": "q2-029",
+      "title": "WTA Guest Status Renewal & Three-Tier Trust Ecosystem Proposal at DESG,",
+      "url": "https://www.worldtrustmark.org/category/news/",
+      "date": "2026-02-01",
+      "source": "World Trustmark and Trade Alliance",
+      "source_type": "学术论文",
+      "summary": "",
+      "categories": [
+        "电信与网络治理"
+      ],
+      "doc_type": [
+        "研究报告"
+      ],
+      "apec_bodies": [
+        "ECSG/DESG"
+      ],
+      "policy_tags": [
+        "DESG"
+      ],
+      "relevance": 70,
+      "notes": "Q2来源汇编[29]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "chinese_title": "DESG WTA访客身份续签和三级信任生态系统提案，",
+      "abstract": "WTA在APEC DESG会议上提出三层信任生态系统，包括贸易实体信用报告、绿色合规信任标志、全球跨境数据流动信任标志，旨在降低跨境数据流动的合规摩擦，推动APEC数字贸易与数据治理互认。"
+    },
+    {
+      "id": "q2-002",
+      "title": "2026 Global CBPR Updates: Strengthening Privacy Interoperability,",
+      "url": "http://trustarc.com/resource/2026-global-cbpr-updates/",
+      "date": "2026-01-01",
+      "source": "TrustArc",
+      "source_type": "学术论文",
+      "summary": "",
+      "categories": [
+        "数据跨境与隐私保护"
+      ],
+      "doc_type": [
+        "研究报告"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "CBPR"
+      ],
+      "relevance": 70,
+      "notes": "Q2来源汇编[2]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "chinese_title": "2026年全球CBPR更新：加强隐私互操作性，",
+      "abstract": "2026年全球跨境隐私规则（CBPR）系统更新，项目要求从50项增至57项，强化防止伤害、增强个人选择、提升组织问责三大支柱，涉及敏感数据、儿童数据、风险评估、违规通知等。CBPR是APEC数据跨境流动与隐私保护互操作的核心机制，与课题直接相关。"
+    },
+    {
+      "id": "q2-005",
+      "title": "中国公共外交协会会长陈旭：围绕'开放、创新、合作'三大优先领域，助推亚太发展,",
+      "url": "https://m.caijing.com.cn/article/202603/408547",
+      "date": "2026-01-01",
+      "source": "财经网",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "数字贸易规则"
+      ],
+      "doc_type": [
+        "新闻动态"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [],
+      "relevance": 55,
+      "notes": "Q2来源汇编[5]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 5,
+      "abstract": "2026年博鳌亚洲论坛“重振APEC”分论坛，2026年APEC高官会主席陈旭围绕“开放、创新、合作”三大优先领域发言，提出以APEC数字周为抓手，聚焦数智赋能、人工智能、数据流动等议题深化合作。反映中国年议程下数字经济与AI合作的优先方向。"
+    },
+    {
+      "id": "q2-013",
+      "title": "APEC'中国年'热度渐升（环球热点）,",
+      "url": "http://chinawto.mofcom.gov.cn/article/br/202605/20260503628160.shtml",
+      "date": "2026-01-01",
+      "source": "中国WTO网（商务部）",
+      "source_type": "官方公报",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "政策文件"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "APEC2026中国年"
+      ],
+      "relevance": 65,
+      "notes": "Q2来源汇编[13]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 6,
+      "abstract": "《人民日报海外版》邀请学者分析APEC“中国年”特点与作用，认为中国年系列活动呈现国际参与热情高、会议布局紧凑、议题专业多元等特征，APEC在当前国际局势下仍是亚太“黏合剂”和“稳定器”，中国发挥理念引领、行动示范、合作桥梁作用。可作为研究中国角色与APEC多边平台韧性的背景资料。"
+    },
+    {
+      "id": "q2-021",
+      "title": "[TELWG_06_2025S] Promoting the Secure Development of AI to Achieve Economic Growth in APEC.",
+      "url": "https://pdb.apec.org/Lists/Proposals/DispForm.aspx?ID=6883",
+      "date": "2026-01-01",
+      "source": "APEC Project Database",
+      "source_type": "官方公报",
+      "summary": "",
+      "categories": [
+        "AI安全治理",
+        "电信与网络治理"
+      ],
+      "doc_type": [
+        "政策文件"
+      ],
+      "apec_bodies": [
+        "Telecommunications WG"
+      ],
+      "policy_tags": [
+        "AI治理",
+        "TELWG"
+      ],
+      "relevance": 95,
+      "notes": "Q2来源汇编[21]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 9,
+      "chinese_title": "[TELWG_06_2025S]促进人工智能的安全发展，以实现亚太经合组织的经济增长。",
+      "abstract": "APEC 2026年自筹资金项目（TELWG_06_2025S），由中国信通院（CAICT）提出，中国香港、印尼共提，聚焦AI安全政策法规、安全产业、安全技术创新应用三方面经验分享，旨在促进APEC经济体安全可信AI发展，支撑实现安全、可信、韧性的ICT环境。"
+    },
+    {
+      "id": "q2-022",
+      "title": "2026年APEC中国年全年会议安排.",
+      "url": "https://m.bendibao.com/show999932.html",
+      "date": "2026-01-01",
+      "source": "深圳本地宝",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "会议资料"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "APEC2026中国年"
+      ],
+      "relevance": 55,
+      "notes": "Q2来源汇编[22]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 5,
+      "abstract": "深圳本地宝整理的2026年APEC中国年全年会议安排，显示全年约300场活动，2月广州第一次高官会、5月上海第二次高官会及苏州贸易部长会、7月成都数字和人工智能部长级会议、11月深圳领导人会议等节点。可作为跟踪中国年会议脉络与议题设置的背景资料。"
+    },
+    {
+      "id": "q2-028",
+      "title": "[DESG_02_2026S] APEC Policy Dialogue on Cross-Border Data Flows related to AI Development.",
+      "url": "https://pdb.apec.org/Lists/Proposals/DispForm.aspx?ID=7039",
+      "date": "2026-01-01",
+      "source": "APEC Project Database",
+      "source_type": "官方公报",
+      "summary": "",
+      "categories": [
+        "AI安全治理",
+        "数据跨境与隐私保护",
+        "电信与网络治理"
+      ],
+      "doc_type": [
+        "政策文件"
+      ],
+      "apec_bodies": [
+        "ECSG/DESG"
+      ],
+      "policy_tags": [
+        "AI治理",
+        "DESG"
+      ],
+      "relevance": 85,
+      "notes": "Q2来源汇编[28]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 8,
+      "chinese_title": "[DESG_02_2026S]亚太经合组织关于与人工智能发展相关的跨境数据流的政策对话。",
+      "abstract": "APEC 2026年自筹资金项目（DESG_02_2026S），聚焦跨境数据流动对AI训练与应用的影响，通过问卷调查、政策对话和总结报告，推动APEC经济体在AI创新与数据治理领域的规则协调与合作。"
+    },
+    {
+      "id": "q2-031",
+      "title": "US pushes AI funding, fisheries tech at Apec amid China rivalry,",
+      "url": "https://ceomorningbrief.theedgemalaysia.com/article/2026/1105/World/21/792807",
+      "date": "2026-01-01",
+      "source": "The Edge Malaysia",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "AI安全治理"
+      ],
+      "doc_type": [
+        "新闻动态"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "AI治理"
+      ],
+      "relevance": 70,
+      "notes": "Q2来源汇编[31]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "chinese_title": "美国在中国竞争中推动人工智能资金， APEC的渔业技术，",
+      "abstract": "路透社报道，特朗普政府在广州APEC会议期间推广美国AI技术出口，并设立2000万美元基金支持伙伴经济体采用美国AI技术，同时推动海洋监控技术应对非法捕捞，反映中美在APEC框架下的技术与影响力竞争。"
+    },
+    {
+      "id": "q2-032",
+      "title": "How China and the US Can Make AI Safer for Everyone,",
+      "url": "https://thediplomat.com/2026/01/how-china-and-the-us-can-make-ai-safer-for-everyone",
+      "date": "2026-01-01",
+      "source": "The Diplomat",
+      "source_type": "学术论文",
+      "summary": "",
+      "categories": [
+        "AI安全治理"
+      ],
+      "doc_type": [
+        "研究报告"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "AI治理"
+      ],
+      "relevance": 70,
+      "notes": "Q2来源汇编[32]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "chinese_title": "中国和美国如何让每个人都更安全，",
+      "abstract": "文章提出中美可在APEC等多边平台就AI安全开展技术性对话，从安全协议、模型评估、核查工具三方面建立“智能议程”，降低共同风险并避免竞争失控。为研究大国在多边平台开展AI安全与网络治理合作提供了现实路径。"
+    },
+    {
+      "id": "q2-040",
+      "title": "亚太政策对话聚焦数字贸易、人工智能与网络安全,",
+      "url": "https://apecstudycenter.org.tw/news/1448",
+      "date": "2026-01-01",
+      "source": "台湾APEC研究中心",
+      "source_type": "学术论文",
+      "summary": "",
+      "categories": [
+        "AI安全治理",
+        "电信与网络治理",
+        "数字贸易规则"
+      ],
+      "doc_type": [
+        "研究报告"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "AI治理"
+      ],
+      "relevance": 95,
+      "notes": "Q2来源汇编[40]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 9,
+      "abstract": "APEC 2026年广州政策对话聚焦数字贸易、人工智能与网络安全，讨论直播电商发展、AI能力建设、儿童在线安全、数字贸易衡量方法、公私伙伴关系与能力建设项目等议题。反映APEC在非约束性政策对话层面推进数字经济与网络安全治理合作的现状。"
+    },
+    {
+      "id": "q2-041",
+      "title": "Digital Trade, AI and Online Safety in Focus at Asia-Pacific Policy Discussion",
+      "url": "https://apec.sitefinity.cloud/press/news-releases/2026/digital-trade--ai-and-online-safety-in-focus-at-asia-pacific-policy-discussion",
+      "date": "2026-01-01",
+      "source": "APEC",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "AI安全治理",
+        "数字贸易规则"
+      ],
+      "doc_type": [
+        "新闻动态"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "AI治理"
+      ],
+      "relevance": 70,
+      "notes": "Q2来源汇编[41]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "chinese_title": "亚太政策讨论聚焦数字贸易、人工智能和在线安全",
+      "abstract": "APEC 2026年广州政策对话围绕数字贸易、人工智能与在线安全展开，探讨贸易便利化、数字贸易指标、AI安全能力建设、儿童在线安全、跨境数据流动等。体现APEC通过政策对话协调数字经济与网络安全规则的机制。"
+    },
+    {
+      "id": "q2-042",
+      "title": "Artificial intelligence is driving APEC economies closer together,",
+      "url": "https://www.vietnam.vn/en/dong-luc-tri-tue-nhan-tao-dua-cac-nen-kinh-te-apec-lai-gan-nhau-hon",
+      "date": "2026-01-01",
+      "source": "越南之声",
+      "source_type": "权威媒体",
+      "summary": "",
+      "categories": [
+        "AI安全治理"
+      ],
+      "doc_type": [
+        "新闻动态"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "AI治理"
+      ],
+      "relevance": 65,
+      "notes": "Q2来源汇编[42]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 6,
+      "chinese_title": "人工智能正在推动APEC经济体更紧密地联系在一起，",
+      "abstract": "文章介绍越南对APEC数字周的期待，提出APEC数字周以“包容性AI基础设施、智慧海关、数字赋权”为三大支柱，为亚太经济体提供AI能力建设、数据治理与数字合作平台。可作为研究APEC数字治理与AI合作机制的背景资料。"
+    },
+    {
+      "id": "q2-033",
+      "title": "APEC Artificial Intelligence (AI) Initiative (2026-2030),",
+      "url": "https://www.apec.org/meeting-papers/leaders-declarations/2025/2025-apec-leaders--gyeongju-declaration/apec-artificial-intelligence-(ai)-initiative-(2026-2030)",
+      "date": "2025-11-17",
+      "source": "APEC",
+      "source_type": "官方公报",
+      "summary": "",
+      "categories": [
+        "AI安全治理"
+      ],
+      "doc_type": [
+        "政策文件"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "AI治理"
+      ],
+      "relevance": 85,
+      "notes": "Q2来源汇编[33]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 8,
+      "chinese_title": "亚太经合组织人工智能（ AI ）倡议（ 2026-2030 ） ，",
+      "abstract": "2025年APEC领导人会议通过《APEC人工智能倡议（2026-2030）》，提出三大目标：推动安全、可靠、可信的AI创新；通过能力建设提升各经济体AI参与度；投资韧性AI基础设施（云、数据中心、可持续能源）。该倡议由数字经济 steering group（DESG）与电信工作组（TELWG）共同推进，是APEC多边平台AI安全治理与数字经济合作的纲领性文件。"
+    },
+    {
+      "id": "q2-043",
+      "title": "APEC Adopts Landmark 2026–2030 AI Initiative to Drive Inclusive Growth and Innovation,",
+      "url": "https://babl.ai/apec-adopts-landmark-2026-2030-ai-initiative-to-drive-inclusive-growth-and-innovation/",
+      "date": "2025-11-17",
+      "source": "Babl AI",
+      "source_type": "学术论文",
+      "summary": "",
+      "categories": [
+        "AI安全治理",
+        "数字贸易规则"
+      ],
+      "doc_type": [
+        "研究报告"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "AI治理"
+      ],
+      "relevance": 70,
+      "notes": "Q2来源汇编[43]",
+      "platform": "APEC",
+      "manual": true,
+      "geo_focus": [
+        "regional"
+      ],
+      "starred": false,
+      "source_quality": 7,
+      "chinese_title": "亚太经合组织通过具有里程碑意义的2026–2030年人工智能倡议，推动包容性增长和创新，",
+      "abstract": "对APEC《人工智能倡议（2026-2030）》的解读，强调该倡议将AI定位为区域经济转型的基石，通过自愿评估、利益相关方协作、公私合作伙伴关系及韩国设立的亚太AI中心，推动包容性增长与安全可信AI应用。可作为研究APEC AI治理框架与区域合作机制的补充背景。"
+    },
+    {
+      "id": "apec-sme-forum-2026-06-24",
+      "title": "2026 APEC SME Business Forum held in Shenzhen with focus on digital empowerment, AI and open innovation",
+      "chinese_title": "2026年APEC中小企业工商论坛在深圳举办，聚焦数智赋能与AI开放创新",
+      "date": "2026-06-24",
+      "source": "中国经济网",
+      "source_type": "国内官媒",
+      "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260626_3054111.shtml",
+      "categories": [
+        "2026中国年",
+        "数字贸易规则",
+        "AI安全治理"
+      ],
+      "apec_bodies": [
+        "SMEWG"
+      ],
+      "policy_tags": [
+        "人工智能",
+        "数字经济",
+        "中小企业"
+      ],
+      "geo_focus": [
+        "中国",
+        "亚太"
+      ],
+      "doc_type": "新闻报道",
+      "relevance": 0.88,
+      "abstract": "2026年6月24日，APEC中小企业工商论坛在深圳成功举办，由工信部中小企业发展促进中心、中国中小企业国际合作协会与深圳市政府共同主办。论坛以数智赋能·开放创新·合作共赢为主题，设1场主论坛、3场专题平行论坛和3场产业调研活动，吸引13个APEC成员经济体的75位外宾参会。深圳市市长覃伟中强调以服务APEC会议为契机推动城市国际化，聚焦中小企业、AI、数字经济、新能源等领域。工信部总经济师高东升提出创新驱动、数智赋能、深化开放合作三大方向。AI分论坛以产业升级——AI驱动中小企业产业发展新范式为主题，吸引500余家企业参会，集中展示前沿AI技术与产业应用成果。该论坛是APEC中国年深圳主场的重要预热活动，展现了中小企业在数字经济转型和AI应用中的关键角色。"
+    },
+    {
+      "id": "global-digital-economy-conference-2026-07-02",
+      "title": "2026 Global Digital Economy Conference opens in Beijing: Digital Friendly Cities, AI governance and digital cooperation in focus",
+      "chinese_title": "2026全球数字经济大会在京开幕：聚焦数字友好城市、AI治理与数字合作",
+      "date": "2026-07-02",
+      "source": "新华网/北京日报",
+      "source_type": "国内官媒",
+      "url": "https://baijiahao.baidu.com/s?id=1869606232544371881",
+      "categories": [
+        "AI安全治理",
+        "数字贸易规则"
+      ],
+      "apec_bodies": [],
+      "policy_tags": [
+        "人工智能",
+        "数字经济",
+        "数字治理",
+        "国际合作"
+      ],
+      "geo_focus": [
+        "中国",
+        "全球"
+      ],
+      "doc_type": "新闻报道",
+      "relevance": 0.82,
+      "abstract": "2026年7月2日，2026全球数字经济大会在北京国家会议中心开幕，由北京市政府、国家网信办、国家数据局、新华社及联合国开发计划署等联合主办。中共中央政治局委员、北京市委书记尹力致辞强调数字经济增加值突破2.4万亿元，聚焦6G、AI大模型、区块链、量子科技等领域。新华社社长傅华提出技术向善、数实融合、开放协同三点主张。中央网信办副主任王京涛、国家数据局局长刘烈宏、联合国副秘书长徐浩良致辞。大会以建设数字友好城市——智惠无界，数联全球为主题，发布《全球数字经济城市发展报告》《全球数字经济灯塔案例》，启动全国重点城市境外人员入境数字化服务便利化提升专项行动。大会涉及数字治理、AI安全、数据要素等核心议题，与APEC数字经济议程形成国内国际呼应，体现了中国在全球数字治理中的主动作为。"
+    }
+  ]
+}

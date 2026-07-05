@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-07-04 03:44:58",
+  "last_updated": "2026-07-05 04:03:30",
   "timezone": "Asia/Shanghai",
   "total_articles": 95,
-  "today_count": 29,
+  "today_count": 0,
   "year_count": 93,
   "monthly_count": 2,
   "data_range": {
@@ -1073,8 +1073,8 @@
       "date": "2026-05-12",
       "summary": "",
       "categories": [
-        "数据跨境与隐私保护",
-        "电信与网络治理"
+        "电信与网络治理",
+        "数据跨境与隐私保护"
       ],
       "doc_type": [
         "meeting_minutes"

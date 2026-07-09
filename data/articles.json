@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08 03:27:33",
+  "last_updated": "2026-07-09 03:53:47",
   "timezone": "Asia/Shanghai",
   "total_articles": 95,
   "today_count": 0,
@@ -1100,8 +1100,8 @@
       "date": "2026-05-11",
       "summary": "APEC Secretariat",
       "categories": [
-        "2026中国年",
-        "电信与网络治理"
+        "电信与网络治理",
+        "2026中国年"
       ],
       "doc_type": [
         "media_report"

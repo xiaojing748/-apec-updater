@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-10 03:56:06",
+  "last_updated": "2026-07-11 03:22:42",
   "timezone": "Asia/Shanghai",
-  "total_articles": 95,
-  "today_count": 0,
-  "year_count": 93,
-  "monthly_count": 2,
+  "total_articles": 97,
+  "today_count": 2,
+  "year_count": 95,
+  "monthly_count": 4,
   "data_range": {
     "earliest": "2025-11-17",
     "latest": "2026-07-16"
@@ -40,6 +40,56 @@
       "source_quality": 7,
       "chinese_title": "亚太经合组织数字周，包括数字和人工智能部长级会议（ DMM ）和其他高级别活动，",
       "abstract": "PECC官方活动日历显示，APEC Digital Week将于2026年7月中下旬在中国成都举行，核心活动包括数字与人工智能部长级会议（DMM）及其他高级别配套活动。另据工信部公告，DMM主体会议定于7月23日至24日举行，境外媒体注册已开启。该活动是APEC 2026中国年数字经济与AI安全治理议程的重要节点，将为亚太地区数字合作与AI政策协调提供平台。"
+    },
+    {
+      "title": "ABAC to Recommend Openness, Connectivity and Synergy to Strengthen Asia-Pacific Growth",
+      "url": "https://www.apec.org/press/news-releases/2026/20260710_ABAC3",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-07-10",
+      "summary": "APEC Business Advisory Council",
+      "categories": [
+        "地缘安全博弈",
+        "2026中国年"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [
+        "ABAC",
+        "CTI"
+      ],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 31,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
+    {
+      "title": "Chair’s Statement on the APEC Tourism Ministerial Meeting",
+      "url": "https://www.apec.org/press/news-releases/2026/20260710_TMM_Chairs_Statement",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-07-10",
+      "summary": "13th APEC Tourism Ministerial Meeting",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "meeting_minutes"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
     },
     {
       "id": "global-digital-economy-conference-2026-07-02",
@@ -1100,8 +1150,8 @@
       "date": "2026-05-11",
       "summary": "APEC Secretariat",
       "categories": [
-        "电信与网络治理",
-        "2026中国年"
+        "2026中国年",
+        "电信与网络治理"
       ],
       "doc_type": [
         "media_report"

@@ -1,15 +1,38 @@
 {
-  "last_updated": "2026-07-21 03:25:11",
+  "last_updated": "2026-07-22 03:23:12",
   "timezone": "Asia/Shanghai",
-  "total_articles": 97,
-  "today_count": 0,
-  "year_count": 95,
-  "monthly_count": 4,
+  "total_articles": 98,
+  "today_count": 1,
+  "year_count": 96,
+  "monthly_count": 5,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-07-16"
+    "latest": "2026-07-21"
   },
   "articles": [
+    {
+      "title": "The APEC Photo Contest 2026 Returns, Your Lens, Your Story",
+      "url": "https://www.apec.org/press/news-releases/2026/0721_PhotoContest_26",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-07-21",
+      "summary": "APEC Secretariat",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "id": "q2-034",
       "title": "APEC Digital Week, including Digital and AI Ministerial Meeting (DMM) and other high-level events,",

@@ -1,15 +1,38 @@
 {
-  "last_updated": "2026-07-24 03:23:37",
+  "last_updated": "2026-07-25 03:22:21",
   "timezone": "Asia/Shanghai",
-  "total_articles": 99,
-  "today_count": 1,
-  "year_count": 97,
-  "monthly_count": 6,
+  "total_articles": 101,
+  "today_count": 2,
+  "year_count": 99,
+  "monthly_count": 8,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-07-23"
+    "latest": "2026-07-24"
   },
   "articles": [
+    {
+      "title": "APEC High-Level Forum Issued Statement on AI Development in the Asia-Pacific",
+      "url": "https://www.apec.org/press/news-releases/2026/0724_HLFAI",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-07-24",
+      "summary": "The APEC High-Level Forum on AI issued a statement on promoting AI development in the region",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "title": "APEC Digital and AI Ministers Issue Joint Statement",
       "url": "https://www.apec.org/press/news-releases/2026/0723_DMM_MA",
@@ -30,6 +53,29 @@
       ],
       "policy_tags": [],
       "relevance": 30,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
+    {
+      "title": "DMM: APEC Digital and AI Ministerial Meeting",
+      "url": "https://www.apec.org/press/photos/2026/dmm--apec-digital-and-ai-ministerial-meeting",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-07-23",
+      "summary": "",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "meeting_minutes"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
       "notes": "",
       "starred": false,
       "source_quality": 10
@@ -1170,8 +1216,8 @@
       "date": "2026-05-12",
       "summary": "",
       "categories": [
-        "电信与网络治理",
-        "数据跨境与隐私保护"
+        "数据跨境与隐私保护",
+        "电信与网络治理"
       ],
       "doc_type": [
         "meeting_minutes"

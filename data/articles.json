@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-26 03:52:13",
+  "last_updated": "2026-07-27 03:44:30",
   "timezone": "Asia/Shanghai",
-  "total_articles": 102,
+  "total_articles": 103,
   "today_count": 1,
-  "year_count": 100,
-  "monthly_count": 9,
+  "year_count": 101,
+  "monthly_count": 10,
   "data_range": {
     "earliest": "2025-11-17",
     "latest": "2026-07-26"
@@ -31,6 +31,29 @@
       ],
       "policy_tags": [],
       "relevance": 24,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
+    {
+      "title": "APEC Roundtable Issues Chair’s Statement on Data for Growth",
+      "url": "https://www.apec.org/press/news-releases/2026/0726_DGHLR",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-07-26",
+      "summary": "Issued by the APEC Data for Growth High-Level Roundtable",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
       "notes": "",
       "starred": false,
       "source_quality": 10
@@ -167,8 +190,8 @@
       "date": "2026-07-10",
       "summary": "APEC Business Advisory Council",
       "categories": [
-        "2026中国年",
-        "地缘安全博弈"
+        "地缘安全博弈",
+        "2026中国年"
       ],
       "doc_type": [
         "media_report"
@@ -1268,8 +1291,8 @@
       "date": "2026-05-11",
       "summary": "APEC Secretariat",
       "categories": [
-        "2026中国年",
-        "电信与网络治理"
+        "电信与网络治理",
+        "2026中国年"
       ],
       "doc_type": [
         "media_report"

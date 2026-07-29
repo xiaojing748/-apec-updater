@@ -1,15 +1,62 @@
 {
-  "last_updated": "2026-07-28 03:00:27",
+  "last_updated": "2026-07-29 03:22:33",
   "timezone": "Asia/Shanghai",
-  "total_articles": 103,
-  "today_count": 0,
-  "year_count": 101,
-  "monthly_count": 10,
+  "total_articles": 105,
+  "today_count": 2,
+  "year_count": 103,
+  "monthly_count": 12,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-07-26"
+    "latest": "2026-07-28"
   },
   "articles": [
+    {
+      "title": "APEC Forestry Ministers Issue Joint Statement",
+      "url": "https://www.apec.org/press/news-releases/2026/0728_MMRF",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-07-28",
+      "summary": "6th APEC Ministerial Meeting on Forestry",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "official_statement",
+        "meeting_minutes"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 30,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
+    {
+      "title": "AI’s Future Depends on the Accessibility of Data: APEC Roundtable",
+      "url": "https://www.apec.org/press/news-releases/2026/0728_HLRDG",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-07-28",
+      "summary": "Data for Growth High-Level Roundtable",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "title": "AI Forum Shifts Focus from Breakthroughs to Adoption",
       "url": "https://www.apec.org/press/news-releases/2026/0726_HLFAI",
@@ -190,8 +237,8 @@
       "date": "2026-07-10",
       "summary": "APEC Business Advisory Council",
       "categories": [
-        "2026中国年",
-        "地缘安全博弈"
+        "地缘安全博弈",
+        "2026中国年"
       ],
       "doc_type": [
         "media_report"

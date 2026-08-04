@@ -1,15 +1,38 @@
 {
-  "last_updated": "2026-08-03 03:35:38",
+  "last_updated": "2026-08-04 03:04:23",
   "timezone": "Asia/Shanghai",
-  "total_articles": 107,
-  "today_count": 0,
-  "year_count": 105,
-  "monthly_count": 0,
+  "total_articles": 108,
+  "today_count": 1,
+  "year_count": 106,
+  "monthly_count": 1,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-07-31"
+    "latest": "2026-08-03"
   },
   "articles": [
+    {
+      "title": "Can APEC’s New Trade Policy Tool Help Design Better Measures?",
+      "url": "https://www.apec.org/press/blogs/2026/can-apec-s-new-trade-policy-tool-help-design-better-measures",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-08-03",
+      "summary": "How does a measure made with good intentions become even better through APEC’s new trade policy tool?",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "policy_document"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "title": "New APEC Vaccination Dashboard Reveals Adult Immunization Gaps Across APEC",
       "url": "https://www.apec.org/press/news-releases/2026/0730_HWG",

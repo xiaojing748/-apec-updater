@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12 02:28:14",
+  "last_updated": "2026-08-13 02:30:50",
   "timezone": "Asia/Shanghai",
   "total_articles": 108,
   "today_count": 0,
@@ -306,8 +306,8 @@
       "date": "2026-07-10",
       "summary": "APEC Business Advisory Council",
       "categories": [
-        "地缘安全博弈",
-        "2026中国年"
+        "2026中国年",
+        "地缘安全博弈"
       ],
       "doc_type": [
         "media_report"

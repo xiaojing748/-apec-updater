@@ -1,15 +1,38 @@
 {
-  "last_updated": "2026-08-18 01:35:19",
+  "last_updated": "2026-08-19 01:42:43",
   "timezone": "Asia/Shanghai",
-  "total_articles": 108,
-  "today_count": 0,
-  "year_count": 106,
-  "monthly_count": 1,
+  "total_articles": 109,
+  "today_count": 1,
+  "year_count": 107,
+  "monthly_count": 2,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-08-03"
+    "latest": "2026-08-18"
   },
   "articles": [
+    {
+      "title": "APEC Officials Meet in Dalian to Advance Work on Region’s Economic Priorities",
+      "url": "https://www.apec.org/press/news-releases/2026/0818_SOM3",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-08-18",
+      "summary": "APEC Secretariat",
+      "categories": [
+        "2026中国年"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 27,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "title": "Can APEC’s New Trade Policy Tool Help Design Better Measures?",
       "url": "https://www.apec.org/press/blogs/2026/can-apec-s-new-trade-policy-tool-help-design-better-measures",
@@ -306,8 +329,8 @@
       "date": "2026-07-10",
       "summary": "APEC Business Advisory Council",
       "categories": [
-        "地缘安全博弈",
-        "2026中国年"
+        "2026中国年",
+        "地缘安全博弈"
       ],
       "doc_type": [
         "media_report"

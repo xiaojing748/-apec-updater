@@ -1,15 +1,38 @@
 {
-  "last_updated": "2026-08-20 01:35:56",
+  "last_updated": "2026-08-21 01:46:48",
   "timezone": "Asia/Shanghai",
-  "total_articles": 109,
-  "today_count": 0,
-  "year_count": 107,
-  "monthly_count": 2,
+  "total_articles": 110,
+  "today_count": 1,
+  "year_count": 108,
+  "monthly_count": 3,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-08-18"
+    "latest": "2026-08-20"
   },
   "articles": [
+    {
+      "title": "APEC Economies Turn to Biotechnology to Strengthen Food Security",
+      "url": "https://www.apec.org/press/news-releases/2026/0820_HLPDAB",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-08-20",
+      "summary": "APEC High-Level Policy Dialogue on Agircultural Biotechnology",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "policy_document"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "title": "APEC Officials Meet in Dalian to Advance Work on Region’s Economic Priorities",
       "url": "https://www.apec.org/press/news-releases/2026/0818_SOM3",

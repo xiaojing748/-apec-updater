@@ -1,15 +1,38 @@
 {
-  "last_updated": "2026-08-21 01:46:48",
+  "last_updated": "2026-08-22 01:34:52",
   "timezone": "Asia/Shanghai",
-  "total_articles": 110,
+  "total_articles": 111,
   "today_count": 1,
-  "year_count": 108,
-  "monthly_count": 3,
+  "year_count": 109,
+  "monthly_count": 4,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-08-20"
+    "latest": "2026-08-21"
   },
   "articles": [
+    {
+      "title": "APEC Deepens Disaster Preparedness as Risks Grow Across Region",
+      "url": "https://www.apec.org/press/news-releases/2026/apec-deepens-disaster-preparedness-as-risks-grow-across-region",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-08-21",
+      "summary": "19th Senior Disaster Management Officials’ Forum",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "title": "APEC Economies Turn to Biotechnology to Strengthen Food Security",
       "url": "https://www.apec.org/press/news-releases/2026/0820_HLPDAB",
@@ -352,8 +375,8 @@
       "date": "2026-07-10",
       "summary": "APEC Business Advisory Council",
       "categories": [
-        "2026中国年",
-        "地缘安全博弈"
+        "地缘安全博弈",
+        "2026中国年"
       ],
       "doc_type": [
         "media_report"

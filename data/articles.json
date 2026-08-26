@@ -1,15 +1,39 @@
 {
-  "last_updated": "2026-08-25 01:42:44",
+  "last_updated": "2026-08-26 01:47:13",
   "timezone": "Asia/Shanghai",
-  "total_articles": 114,
+  "total_articles": 115,
   "today_count": 1,
-  "year_count": 112,
-  "monthly_count": 7,
+  "year_count": 113,
+  "monthly_count": 8,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-08-24"
+    "latest": "2026-08-25"
   },
   "articles": [
+    {
+      "title": "APEC Food Security Ministers Issue Joint Statement",
+      "url": "https://www.apec.org/press/news-releases/2026/0825_FSMM",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-08-25",
+      "summary": "11th APEC Food Security Ministerial Meeting",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "official_statement",
+        "meeting_minutes"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 30,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "title": "APEC Moves Cut Barriers for Fast-Growing Services Trade",
       "url": "https://www.apec.org/press/news-releases/2026/apec-moves-cut-barriers-for-fast-growing-services-trade",
@@ -446,8 +470,8 @@
       "date": "2026-07-10",
       "summary": "APEC Business Advisory Council",
       "categories": [
-        "2026中国年",
-        "地缘安全博弈"
+        "地缘安全博弈",
+        "2026中国年"
       ],
       "doc_type": [
         "media_report"

@@ -1,15 +1,61 @@
 {
-  "last_updated": "2026-08-27 08:38:44",
+  "last_updated": "2026-08-28 10:52:32",
   "timezone": "Asia/Shanghai",
-  "total_articles": 117,
+  "total_articles": 119,
   "today_count": 2,
-  "year_count": 115,
-  "monthly_count": 10,
+  "year_count": 117,
+  "monthly_count": 12,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-08-26"
+    "latest": "2026-08-27"
   },
   "articles": [
+    {
+      "title": "APEC Sees 3.2% Growth in 2026 as Exports Jump, Inflation Accelerates",
+      "url": "https://www.apec.org/press/news-releases/2026/apec-sees-3.2--growth-in-2026-as-exports-jump--inflation-accelerates",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-08-27",
+      "summary": "APEC Policy Support Unit",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "policy_document"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
+    {
+      "title": "Economies Work to Simplify Cross-Border Commercial Disputes",
+      "url": "https://www.apec.org/press/news-releases/2026/economies-work-to-simplify-cross-border-commercial-disputes",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-08-27",
+      "summary": "APEC Economic Committee",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "title": "Ministers Turn to Digital Technologies to Strengthen Food Systems and Rural Growth",
       "url": "https://www.apec.org/press/news-releases/2026/0826_FSMM",
@@ -516,8 +562,8 @@
       "date": "2026-07-10",
       "summary": "APEC Business Advisory Council",
       "categories": [
-        "2026中国年",
-        "地缘安全博弈"
+        "地缘安全博弈",
+        "2026中国年"
       ],
       "doc_type": [
         "media_report"

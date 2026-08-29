@@ -1,15 +1,67 @@
 {
-  "last_updated": "2026-08-28 10:52:32",
+  "last_updated": "2026-08-29 06:39:55",
   "timezone": "Asia/Shanghai",
-  "total_articles": 119,
+  "total_articles": 121,
   "today_count": 2,
-  "year_count": 117,
-  "monthly_count": 12,
+  "year_count": 119,
+  "monthly_count": 14,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-08-27"
+    "latest": "2026-08-28"
   },
   "articles": [
+    {
+      "title": "Senior Officials Push for Practical Outcomes as Economic Pressures Mount",
+      "url": "https://www.apec.org/press/news-releases/2026/0828_som3",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-08-28",
+      "summary": "APEC senior officials concluded two days of deliberations in Dalian on Friday, advancing regional economic cooperation as trade uncertainty, geopolitical tensions and rapid technological change reshape the outlook for the Asia-Pacific",
+      "categories": [
+        "电信与网络治理",
+        "2026中国年",
+        "地缘安全博弈"
+      ],
+      "doc_type": [
+        "report",
+        "regulation"
+      ],
+      "apec_bodies": [
+        "SOM",
+        "CTI"
+      ],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 31,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
+    {
+      "title": "APEC Grows Amid a Complex Global Landscape as Economic Engines Shift",
+      "url": "https://www.apec.org/press/blogs/2026/apec-grows-amid-a-complex-global-landscape-as-economic-engines-shift",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-08-28",
+      "summary": "The APEC region continues to expand despite a more challenging global environment.",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "global"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "title": "APEC Sees 3.2% Growth in 2026 as Exports Jump, Inflation Accelerates",
       "url": "https://www.apec.org/press/news-releases/2026/apec-sees-3.2--growth-in-2026-as-exports-jump--inflation-accelerates",
@@ -562,8 +614,8 @@
       "date": "2026-07-10",
       "summary": "APEC Business Advisory Council",
       "categories": [
-        "地缘安全博弈",
-        "2026中国年"
+        "2026中国年",
+        "地缘安全博弈"
       ],
       "doc_type": [
         "media_report"

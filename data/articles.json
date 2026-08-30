@@ -1,15 +1,38 @@
 {
-  "last_updated": "2026-08-29 06:39:55",
+  "last_updated": "2026-08-30 04:51:33",
   "timezone": "Asia/Shanghai",
-  "total_articles": 121,
-  "today_count": 2,
-  "year_count": 119,
-  "monthly_count": 14,
+  "total_articles": 122,
+  "today_count": 1,
+  "year_count": 120,
+  "monthly_count": 15,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-08-28"
+    "latest": "2026-08-29"
   },
   "articles": [
+    {
+      "title": "Economies Tackle New Risks as Transport Systems Grow More Connected",
+      "url": "https://www.apec.org/press/news-releases/2026/0829_TPTWG",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-08-29",
+      "summary": "APEC Transportation Working Group",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "title": "Senior Officials Push for Practical Outcomes as Economic Pressures Mount",
       "url": "https://www.apec.org/press/news-releases/2026/0828_som3",
@@ -18,8 +41,8 @@
       "date": "2026-08-28",
       "summary": "APEC senior officials concluded two days of deliberations in Dalian on Friday, advancing regional economic cooperation as trade uncertainty, geopolitical tensions and rapid technological change reshape the outlook for the Asia-Pacific",
       "categories": [
-        "电信与网络治理",
         "2026中国年",
+        "电信与网络治理",
         "地缘安全博弈"
       ],
       "doc_type": [

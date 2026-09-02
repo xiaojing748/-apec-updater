@@ -1,15 +1,44 @@
 {
-  "last_updated": "2026-09-01 04:35:32",
+  "last_updated": "2026-09-02 03:58:26",
   "timezone": "Asia/Shanghai",
-  "total_articles": 123,
-  "today_count": 0,
-  "year_count": 121,
-  "monthly_count": 0,
+  "total_articles": 124,
+  "today_count": 1,
+  "year_count": 122,
+  "monthly_count": 1,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-08-30"
+    "latest": "2026-09-01"
   },
   "articles": [
+    {
+      "title": "Paper Trail Holds Back Digital Trade Processes as APEC, ABAC Push Practical Fixes",
+      "url": "https://www.apec.org/press/news-releases/2026/paper-trail-holds-back-digital-trade-processes-as-apec--abac-push-practical-fixes",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-09-01",
+      "summary": "APEC Committee on Trade and Investment",
+      "categories": [
+        "地缘安全博弈",
+        "数字贸易规则",
+        "2026中国年"
+      ],
+      "doc_type": [
+        "regulation",
+        "academic"
+      ],
+      "apec_bodies": [
+        "ABAC",
+        "CTI"
+      ],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 33,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "title": "AI Tool Transforming Genomic Analysis Wins 2026 ASPIRE Prize",
       "url": "https://www.apec.org/press/news-releases/2026/0829_ASPIRE",
@@ -66,8 +95,8 @@
       "summary": "APEC senior officials concluded two days of deliberations in Dalian on Friday, advancing regional economic cooperation as trade uncertainty, geopolitical tensions and rapid technological change reshape the outlook for the Asia-Pacific",
       "categories": [
         "地缘安全博弈",
-        "电信与网络治理",
-        "2026中国年"
+        "2026中国年",
+        "电信与网络治理"
       ],
       "doc_type": [
         "report",

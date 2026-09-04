@@ -1,15 +1,38 @@
 {
-  "last_updated": "2026-09-03 03:58:34",
+  "last_updated": "2026-09-04 03:59:16",
   "timezone": "Asia/Shanghai",
-  "total_articles": 124,
-  "today_count": 0,
-  "year_count": 122,
-  "monthly_count": 1,
+  "total_articles": 125,
+  "today_count": 1,
+  "year_count": 123,
+  "monthly_count": 2,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-09-01"
+    "latest": "2026-09-03"
   },
   "articles": [
+    {
+      "title": "Customs and Businesses Join Forces to Tackle Trade Bottlenecks",
+      "url": "https://www.apec.org/press/news-releases/2026/0903_acbd",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-09-03",
+      "summary": "APEC economies are accelerating the use of artificial intelligence (AI), digital documents and data-driven customs systems to move goods across borders faster while strengthening oversight as supply chains become more complex.",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "title": "Paper Trail Holds Back Digital Trade Processes as APEC, ABAC Push Practical Fixes",
       "url": "https://www.apec.org/press/news-releases/2026/paper-trail-holds-back-digital-trade-processes-as-apec--abac-push-practical-fixes",
@@ -18,9 +41,9 @@
       "date": "2026-09-01",
       "summary": "APEC Committee on Trade and Investment",
       "categories": [
-        "2026中国年",
         "数字贸易规则",
-        "地缘安全博弈"
+        "地缘安全博弈",
+        "2026中国年"
       ],
       "doc_type": [
         "regulation",
@@ -94,9 +117,9 @@
       "date": "2026-08-28",
       "summary": "APEC senior officials concluded two days of deliberations in Dalian on Friday, advancing regional economic cooperation as trade uncertainty, geopolitical tensions and rapid technological change reshape the outlook for the Asia-Pacific",
       "categories": [
-        "2026中国年",
+        "电信与网络治理",
         "地缘安全博弈",
-        "电信与网络治理"
+        "2026中国年"
       ],
       "doc_type": [
         "report",
@@ -690,8 +713,8 @@
       "date": "2026-07-10",
       "summary": "APEC Business Advisory Council",
       "categories": [
-        "2026中国年",
-        "地缘安全博弈"
+        "地缘安全博弈",
+        "2026中国年"
       ],
       "doc_type": [
         "media_report"

@@ -1,15 +1,38 @@
 {
-  "last_updated": "2026-09-04 03:59:16",
+  "last_updated": "2026-09-05 03:57:55",
   "timezone": "Asia/Shanghai",
-  "total_articles": 125,
+  "total_articles": 126,
   "today_count": 1,
-  "year_count": 123,
-  "monthly_count": 2,
+  "year_count": 124,
+  "monthly_count": 3,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-09-03"
+    "latest": "2026-09-04"
   },
   "articles": [
+    {
+      "title": "Aging Asia-Pacific Pushes APEC to Rethink Work and Care",
+      "url": "https://www.apec.org/press/news-releases/2026/0904_hwg",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-09-04",
+      "summary": "Economies are pushing to strengthen long-term care and turn to digital technologies to help older people age healthily and strengthen economic stability.",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "title": "Customs and Businesses Join Forces to Tackle Trade Bottlenecks",
       "url": "https://www.apec.org/press/news-releases/2026/0903_acbd",
@@ -42,8 +65,8 @@
       "summary": "APEC Committee on Trade and Investment",
       "categories": [
         "数字贸易规则",
-        "地缘安全博弈",
-        "2026中国年"
+        "2026中国年",
+        "地缘安全博弈"
       ],
       "doc_type": [
         "regulation",
@@ -118,8 +141,8 @@
       "summary": "APEC senior officials concluded two days of deliberations in Dalian on Friday, advancing regional economic cooperation as trade uncertainty, geopolitical tensions and rapid technological change reshape the outlook for the Asia-Pacific",
       "categories": [
         "电信与网络治理",
-        "地缘安全博弈",
-        "2026中国年"
+        "2026中国年",
+        "地缘安全博弈"
       ],
       "doc_type": [
         "report",
@@ -713,8 +736,8 @@
       "date": "2026-07-10",
       "summary": "APEC Business Advisory Council",
       "categories": [
-        "地缘安全博弈",
-        "2026中国年"
+        "2026中国年",
+        "地缘安全博弈"
       ],
       "doc_type": [
         "media_report"

@@ -1,15 +1,39 @@
 {
-  "last_updated": "2026-09-11 04:04:13",
+  "last_updated": "2026-09-12 04:06:55",
   "timezone": "Asia/Shanghai",
-  "total_articles": 128,
-  "today_count": 0,
-  "year_count": 126,
-  "monthly_count": 6,
+  "total_articles": 129,
+  "today_count": 1,
+  "year_count": 127,
+  "monthly_count": 7,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-09-08"
+    "latest": "2026-09-11"
   },
   "articles": [
+    {
+      "title": "APEC Energy Ministers Issue Joint Statement",
+      "url": "https://www.apec.org/press/news-releases/2026/0911_EMM",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-09-11",
+      "summary": "16th APEC Energy Ministerial Meeting",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "official_statement",
+        "meeting_minutes"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 30,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "title": "Deadline extended: APEC Photo Contest 2026",
       "url": "https://www.apec.org/press/news-releases/2026/0721_PhotoContest_26",
@@ -134,8 +158,8 @@
       "summary": "APEC Committee on Trade and Investment",
       "categories": [
         "地缘安全博弈",
-        "2026中国年",
-        "数字贸易规则"
+        "数字贸易规则",
+        "2026中国年"
       ],
       "doc_type": [
         "regulation",
@@ -210,8 +234,8 @@
       "summary": "APEC senior officials concluded two days of deliberations in Dalian on Friday, advancing regional economic cooperation as trade uncertainty, geopolitical tensions and rapid technological change reshape the outlook for the Asia-Pacific",
       "categories": [
         "地缘安全博弈",
-        "2026中国年",
-        "电信与网络治理"
+        "电信与网络治理",
+        "2026中国年"
       ],
       "doc_type": [
         "report",

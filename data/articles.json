@@ -1,15 +1,64 @@
 {
-  "last_updated": "2026-09-22 04:19:56",
+  "last_updated": "2026-09-23 04:17:28",
   "timezone": "Asia/Shanghai",
-  "total_articles": 134,
-  "today_count": 1,
-  "year_count": 132,
-  "monthly_count": 12,
+  "total_articles": 136,
+  "today_count": 2,
+  "year_count": 134,
+  "monthly_count": 14,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-09-21"
+    "latest": "2026-09-22"
   },
   "articles": [
+    {
+      "title": "APEC Transportation Ministers Issue Joint Statement",
+      "url": "https://www.apec.org/press/news-releases/2026/0922_TMM12",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-09-22",
+      "summary": "12th APEC Transportation Ministers’ Meeting",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "official_statement",
+        "meeting_minutes"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 30,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
+    {
+      "title": "APEC Ministers Target Jobs, Skills and Worker Protection as AI Reshapes Work",
+      "url": "https://www.apec.org/press/news-releases/2026/0921_HRDMM",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-09-22",
+      "summary": "8th APEC Human Resources Development Ministerial Meeting",
+      "categories": [
+        "地缘安全博弈"
+      ],
+      "doc_type": [
+        "meeting_minutes"
+      ],
+      "apec_bodies": [
+        "CTI"
+      ],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "title": "APEC, UNCTAD Bridge Regional and Global Efforts on Digital Services Trade at WTO Forum",
       "url": "https://www.apec.org/press/news-releases/2026/0921_APEC@WTOPublicForum",
@@ -349,9 +398,9 @@
       "date": "2026-08-28",
       "summary": "APEC senior officials concluded two days of deliberations in Dalian on Friday, advancing regional economic cooperation as trade uncertainty, geopolitical tensions and rapid technological change reshape the outlook for the Asia-Pacific",
       "categories": [
-        "地缘安全博弈",
+        "电信与网络治理",
         "2026中国年",
-        "电信与网络治理"
+        "地缘安全博弈"
       ],
       "doc_type": [
         "report",
@@ -922,8 +971,8 @@
       "date": "2026-07-10",
       "summary": "APEC Business Advisory Council",
       "categories": [
-        "地缘安全博弈",
-        "2026中国年"
+        "2026中国年",
+        "地缘安全博弈"
       ],
       "doc_type": [
         "media_report"

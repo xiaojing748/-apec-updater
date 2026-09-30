@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29 05:17:16",
+  "last_updated": "2026-09-30 05:03:36",
   "timezone": "Asia/Shanghai",
   "total_articles": 137,
   "today_count": 0,
@@ -345,8 +345,8 @@
       "date": "2026-09-01",
       "summary": "APEC Committee on Trade and Investment",
       "categories": [
-        "数字贸易规则",
         "2026中国年",
+        "数字贸易规则",
         "地缘安全博弈"
       ],
       "doc_type": [
@@ -422,8 +422,8 @@
       "summary": "APEC senior officials concluded two days of deliberations in Dalian on Friday, advancing regional economic cooperation as trade uncertainty, geopolitical tensions and rapid technological change reshape the outlook for the Asia-Pacific",
       "categories": [
         "2026中国年",
-        "电信与网络治理",
-        "地缘安全博弈"
+        "地缘安全博弈",
+        "电信与网络治理"
       ],
       "doc_type": [
         "report",

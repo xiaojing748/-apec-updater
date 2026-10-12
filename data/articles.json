@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-10-11 05:11:46",
+  "last_updated": "2026-10-12 05:25:04",
   "timezone": "Asia/Shanghai",
-  "total_articles": 138,
-  "today_count": 0,
-  "year_count": 136,
+  "total_articles": 141,
+  "today_count": 3,
+  "year_count": 139,
   "monthly_count": 0,
   "data_range": {
     "earliest": "2025-11-17",
@@ -345,9 +345,9 @@
       "date": "2026-09-01",
       "summary": "APEC Committee on Trade and Investment",
       "categories": [
-        "数字贸易规则",
         "地缘安全博弈",
-        "2026中国年"
+        "2026中国年",
+        "数字贸易规则"
       ],
       "doc_type": [
         "regulation",
@@ -421,9 +421,9 @@
       "date": "2026-08-28",
       "summary": "APEC senior officials concluded two days of deliberations in Dalian on Friday, advancing regional economic cooperation as trade uncertainty, geopolitical tensions and rapid technological change reshape the outlook for the Asia-Pacific",
       "categories": [
-        "电信与网络治理",
         "地缘安全博弈",
-        "2026中国年"
+        "2026中国年",
+        "电信与网络治理"
       ],
       "doc_type": [
         "report",
@@ -512,6 +512,31 @@
       "source_quality": 10
     },
     {
+      "title": "SOM: 3rd Senior Officials' Plenary Meeting",
+      "url": "https://www.apec.org/press/photos/2026/som--3rd-senior-officials'-plenary-meeting",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-08-27",
+      "summary": "",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "meeting_minutes"
+      ],
+      "apec_bodies": [
+        "SOM"
+      ],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 2,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
+    {
       "title": "Ministers Turn to Digital Technologies to Strengthen Food Systems and Rural Growth",
       "url": "https://www.apec.org/press/news-releases/2026/0826_FSMM",
       "source": "APEC官网",
@@ -553,6 +578,31 @@
       ],
       "policy_tags": [],
       "relevance": 22,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
+    {
+      "title": "CTI: Committee on Trade and Investment Plenary",
+      "url": "https://www.apec.org/press/photos/2026/cti--committee-on-trade-and-investment-plenary-som32026",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-08-26",
+      "summary": "",
+      "categories": [
+        "地缘安全博弈"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [
+        "CTI"
+      ],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 2,
       "notes": "",
       "starred": false,
       "source_quality": 10
@@ -740,6 +790,30 @@
       ],
       "policy_tags": [],
       "relevance": 27,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
+    {
+      "title": "ACTWG: 43rd APEC Anti-Corruption and Transparency Working Group Meeting",
+      "url": "https://www.apec.org/press/photos/2026/actwg--43rd-apec-anti-corruption-and-transparency-working-group-meeting",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-08-17",
+      "summary": "",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "meeting_minutes",
+        "regulation"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "regional"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
       "notes": "",
       "starred": false,
       "source_quality": 10

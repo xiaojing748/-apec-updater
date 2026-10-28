@@ -1,15 +1,38 @@
 {
-  "last_updated": "2026-10-27 04:35:09",
+  "last_updated": "2026-10-28 05:05:09",
   "timezone": "Asia/Shanghai",
-  "total_articles": 145,
-  "today_count": 0,
-  "year_count": 143,
-  "monthly_count": 3,
+  "total_articles": 146,
+  "today_count": 1,
+  "year_count": 144,
+  "monthly_count": 4,
   "data_range": {
     "earliest": "2025-11-17",
-    "latest": "2026-10-21"
+    "latest": "2026-10-27"
   },
   "articles": [
+    {
+      "title": "From the Corner Café to the Global Market: Building an Inclusive Intellectual Property System Across APEC",
+      "url": "https://www.apec.org/press/blogs/2026/1027_IPEG",
+      "source": "APEC官网",
+      "source_type": "官方公报",
+      "date": "2026-10-27",
+      "summary": "Intellectual property should not be a privilege for the few, yet for many small businesses it feels out of reach. Simpler systems, new technologies and greater inclusion can help entrepreneurs, women and local communities turn their ideas into growth.",
+      "categories": [
+        "其他APEC动态"
+      ],
+      "doc_type": [
+        "media_report"
+      ],
+      "apec_bodies": [],
+      "geo_focus": [
+        "global"
+      ],
+      "policy_tags": [],
+      "relevance": 22,
+      "notes": "",
+      "starred": false,
+      "source_quality": 10
+    },
     {
       "title": "APEC Finance Ministers Issue Joint Statement",
       "url": "https://www.apec.org/press/news-releases/2026/1021_FMM_MA",
@@ -416,8 +439,8 @@
       "summary": "APEC Committee on Trade and Investment",
       "categories": [
         "地缘安全博弈",
-        "2026中国年",
-        "数字贸易规则"
+        "数字贸易规则",
+        "2026中国年"
       ],
       "doc_type": [
         "regulation",
@@ -491,8 +514,8 @@
       "date": "2026-08-28",
       "summary": "APEC senior officials concluded two days of deliberations in Dalian on Friday, advancing regional economic cooperation as trade uncertainty, geopolitical tensions and rapid technological change reshape the outlook for the Asia-Pacific",
       "categories": [
-        "电信与网络治理",
         "地缘安全博弈",
+        "电信与网络治理",
         "2026中国年"
       ],
       "doc_type": [

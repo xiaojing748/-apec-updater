@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-16 05:52:04",
+  "last_updated": "2026-11-17 07:29:31",
   "timezone": "Asia/Shanghai",
   "total_articles": 152,
-  "today_count": 1,
+  "today_count": 0,
   "year_count": 150,
   "monthly_count": 6,
   "data_range": {
@@ -581,9 +581,9 @@
       "date": "2026-09-01",
       "summary": "APEC Committee on Trade and Investment",
       "categories": [
-        "地缘安全博弈",
+        "数字贸易规则",
         "2026中国年",
-        "数字贸易规则"
+        "地缘安全博弈"
       ],
       "doc_type": [
         "regulation",
